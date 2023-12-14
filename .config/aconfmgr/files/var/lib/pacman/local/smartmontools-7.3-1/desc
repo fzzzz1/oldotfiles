@@ -1,0 +1,45 @@
+%NAME%
+smartmontools
+
+%VERSION%
+7.3-1
+
+%BASE%
+smartmontools
+
+%DESC%
+Control and monitor S.M.A.R.T. enabled ATA and SCSI Hard Drives
+
+%URL%
+http://smartmontools.sourceforge.net
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1646128370
+
+%INSTALLDATE%
+1674705810
+
+%PACKAGER%
+Christian Hesse <eworm@archlinux.org>
+
+%SIZE%
+2166739
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+libcap-ng
+bash
+systemd-libs
+
+%OPTDEPENDS%
+s-nail: to get mail alerts to work
+

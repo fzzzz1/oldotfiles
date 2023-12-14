@@ -1,0 +1,9 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/qemu-system-tricore
+usr/share/
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/qemu-system-tricore.1.gz
+

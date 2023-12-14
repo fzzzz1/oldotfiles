@@ -1,0 +1,36 @@
+%NAME%
+catppuccin-gtk-theme-frappe
+
+%VERSION%
+0.4.1-1
+
+%BASE%
+catppuccin-gtk-theme-frappe
+
+%DESC%
+Soothing pastel theme for GTK3 - Frappe
+
+%URL%
+https://github.com/catppuccin/gtk
+
+%ARCH%
+any
+
+%BUILDDATE%
+1674959942
+
+%INSTALLDATE%
+1674960243
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+21273701
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+none
+

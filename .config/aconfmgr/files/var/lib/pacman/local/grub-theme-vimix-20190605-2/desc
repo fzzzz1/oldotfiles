@@ -1,0 +1,45 @@
+%NAME%
+grub-theme-vimix
+
+%VERSION%
+20190605-2
+
+%BASE%
+grub-theme-vimix
+
+%DESC%
+A blur theme for grub
+
+%URL%
+https://github.com/Se7endAY/grub2-theme-vimix
+
+%ARCH%
+any
+
+%BUILDDATE%
+1594141525
+
+%INSTALLDATE%
+1674705752
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+2575477
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+vimix-grub
+
+%DEPENDS%
+grub
+
+%OPTDEPENDS%
+grub-customizer: GUI tool to configure grub
+

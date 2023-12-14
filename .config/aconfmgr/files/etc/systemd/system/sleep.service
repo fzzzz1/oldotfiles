@@ -1,0 +1,12 @@
+[Unit]
+Description=Lock the screen
+Before=sleep.target
+ 
+[Service]
+User=fritz
+Type=forking
+Environment=DISPLAY=:0
+ExecStart=/usr/bin/swaylock -i /home/fritz/.wallpapers/arch-magenta-blue.png
+ 
+[Install]
+WantedBy=sleep.target

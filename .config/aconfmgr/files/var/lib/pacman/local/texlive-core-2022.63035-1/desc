@@ -1,0 +1,75 @@
+%NAME%
+texlive-core
+
+%VERSION%
+2022.63035-1
+
+%BASE%
+texlive-core
+
+%DESC%
+TeX Live core distribution
+
+%URL%
+http://tug.org/texlive/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1650183167
+
+%INSTALLDATE%
+1675475003
+
+%PACKAGER%
+Rémy Oudompheng <remy@archlinux.org>
+
+%SIZE%
+412012926
+
+%GROUPS%
+texlive-most
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+tetex
+texlive-latex3
+pdfjam
+texlive-genericextra
+texlive-plainextra
+
+%DEPENDS%
+texlive-bin
+perl
+
+%OPTDEPENDS%
+dialog: for texconfig
+ghostscript: for epstopdf, epspdf and other ConTeXt tools
+java-runtime: for utilities like arara, texplate
+perl-tk: for texdoctk
+psutils: to manipulate the output of dvips
+python: for de-macro, dviasm, pythontex
+ruby: for old ConTeXT MkII and epspdf
+t1utils: can be useful when installing Type1 fonts
+wdiff: for texdiff
+
+%CONFLICTS%
+tetex
+texlive-latex3
+pdfjam
+texlive-genericextra
+texlive-plainextra
+
+%PROVIDES%
+tetex
+texlive-latex3
+pdfjam
+texlive-genericextra
+texlive-plainextra
+

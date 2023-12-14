@@ -1,0 +1,7 @@
+%FILES%
+usr/
+usr/share/
+usr/share/qemu/
+usr/share/qemu/petalogix-ml605.dtb
+usr/share/qemu/petalogix-s3adsp1800.dtb
+

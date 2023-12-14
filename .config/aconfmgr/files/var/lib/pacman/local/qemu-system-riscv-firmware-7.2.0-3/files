@@ -1,0 +1,7 @@
+%FILES%
+usr/
+usr/share/
+usr/share/qemu/
+usr/share/qemu/opensbi-riscv32-generic-fw_dynamic.bin
+usr/share/qemu/opensbi-riscv64-generic-fw_dynamic.bin
+

@@ -1,0 +1,45 @@
+%NAME%
+fzf
+
+%VERSION%
+0.37.0-1
+
+%BASE%
+fzf
+
+%DESC%
+Command-line fuzzy finder
+
+%URL%
+https://github.com/junegunn/fzf
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1674580681
+
+%INSTALLDATE%
+1674705699
+
+%PACKAGER%
+Morten Linderud <foxboron@archlinux.org>
+
+%SIZE%
+3666664
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bash
+
+%OPTDEPENDS%
+fish: fish keybindings
+tmux: fzf-tmux script for launching fzf in a tmux pane
+vim: plugin
+zsh: zsh keybindings
+

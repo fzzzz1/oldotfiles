@@ -1,0 +1,43 @@
+%NAME%
+svt-av1
+
+%VERSION%
+1.4.1-1
+
+%BASE%
+svt-av1
+
+%DESC%
+Scalable Video Technology AV1 encoder and decoder
+
+%URL%
+https://gitlab.com/AOMediaCodec/SVT-AV1
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1670997857
+
+%INSTALLDATE%
+1674705698
+
+%PACKAGER%
+Maxime Gauduin <alucryd@archlinux.org>
+
+%SIZE%
+7706608
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+custom: Alliance for Open Media Patent License 1.0
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+

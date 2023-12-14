@@ -1,0 +1,60 @@
+%NAME%
+libcamera
+
+%VERSION%
+0.0.4-1
+
+%BASE%
+libcamera
+
+%DESC%
+A complex camera support library for Linux, Android, and ChromeOS
+
+%URL%
+https://libcamera.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1675240724
+
+%INSTALLDATE%
+1675341463
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+1807827
+
+%REASON%
+1
+
+%LICENSE%
+LGPL2.1
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+glibc
+gnutls
+libdrm
+libelf
+libunwind
+libyaml
+systemd-libs
+libudev.so=1-64
+
+%OPTDEPENDS%
+gst-plugin-libcamera: GStreamer plugin
+libcamera-docs: for documentation
+libcamera-tools: for applications
+
+%PROVIDES%
+libcamera.so=0.0.4-64
+libcamera-base.so=0.0.4-64
+

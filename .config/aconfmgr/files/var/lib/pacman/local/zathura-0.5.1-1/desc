@@ -1,0 +1,51 @@
+%NAME%
+zathura
+
+%VERSION%
+0.5.1-1
+
+%BASE%
+zathura
+
+%DESC%
+Minimalistic document viewer
+
+%URL%
+https://pwmt.org/projects/zathura/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1664820877
+
+%INSTALLDATE%
+1674706022
+
+%PACKAGER%
+Johannes Löthberg <demize@archlinux.org>
+
+%SIZE%
+634713
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+girara>=0.2.7
+sqlite
+desktop-file-utils
+file
+libsynctex
+file
+
+%OPTDEPENDS%
+zathura-djvu: DjVu support
+zathura-pdf-poppler: PDF support using Poppler
+zathura-pdf-mupdf: PDF support using MuPDF
+zathura-ps: PostScript support
+zathura-cb: Comic book support
+

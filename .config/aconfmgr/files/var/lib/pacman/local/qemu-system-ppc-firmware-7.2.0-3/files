@@ -1,0 +1,13 @@
+%FILES%
+usr/
+usr/share/
+usr/share/qemu/
+usr/share/qemu/bamboo.dtb
+usr/share/qemu/canyonlands.dtb
+usr/share/qemu/openbios-ppc
+usr/share/qemu/qemu_vga.ndrv
+usr/share/qemu/skiboot.lid
+usr/share/qemu/slof.bin
+usr/share/qemu/u-boot-sam460-20100605.bin
+usr/share/qemu/u-boot.e500
+

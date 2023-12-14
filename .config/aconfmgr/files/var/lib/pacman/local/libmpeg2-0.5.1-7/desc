@@ -1,0 +1,49 @@
+%NAME%
+libmpeg2
+
+%VERSION%
+0.5.1-7
+
+%BASE%
+libmpeg2
+
+%DESC%
+Library for decoding MPEG-1 and MPEG-2 video streams.
+
+%URL%
+http://libmpeg2.sourceforge.net/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1589632230
+
+%INSTALLDATE%
+1674705698
+
+%PACKAGER%
+Evangelos Foutras <evangelos@foutrelis.com>
+
+%SIZE%
+238100
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+
+%OPTDEPENDS%
+sdl: required for mpeg2dec
+libxv: required for mpeg2dec
+
+%PROVIDES%
+mpeg2dec
+

@@ -1,0 +1,2409 @@
+{
+   "checksum": "3cfb244666672652045276ebf19d3c28",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13297090426000000",
+            "date_last_used": "0",
+            "guid": "37f24c5f-7561-47ae-9854-4eaee4fc8ef9",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/firefox/central/"
+         }, {
+            "date_added": "13226194087000000",
+            "date_last_used": "0",
+            "guid": "1f625d2f-5ead-4cdf-8fa6-573099f5fb66",
+            "id": "6",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13226194087000000",
+            "date_last_used": "0",
+            "guid": "138502ef-9999-4caf-8f75-e830be96ff1e",
+            "id": "7",
+            "name": "Homepage",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13226194087000000",
+            "date_last_used": "0",
+            "guid": "2b94a663-b87b-4d55-9347-10a9dbcc13d5",
+            "id": "8",
+            "name": "Forum",
+            "type": "url",
+            "url": "http://forum.manjaro.org/"
+         }, {
+            "date_added": "13226194087000000",
+            "date_last_used": "0",
+            "guid": "d5936406-530a-4bc5-8c91-12be73e279cb",
+            "id": "9",
+            "name": "Wiki",
+            "type": "url",
+            "url": "http://wiki.manjaro.org/index.php/Main_Page"
+         }, {
+            "date_added": "13255887007000000",
+            "date_last_used": "0",
+            "guid": "1e18036d-1f86-4ef3-aa2d-d4cb45b6e600",
+            "id": "10",
+            "name": "Manjaro Discover Software",
+            "type": "url",
+            "url": "https://discover.manjaro.org/"
+         }, {
+            "date_added": "13226194088000000",
+            "date_last_used": "0",
+            "guid": "8e1d14b6-306b-473a-ae66-02b16e16eb58",
+            "id": "11",
+            "name": "Mozilla News",
+            "type": "url",
+            "url": "http://blog.mozilla.com/"
+         }, {
+            "date_added": "13247840021000000",
+            "date_last_used": "0",
+            "guid": "ab0e6127-4768-40f1-bf26-a77665f602c0",
+            "id": "12",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-GB/firefox/central/"
+         }, {
+            "date_added": "13245775877000000",
+            "date_last_used": "0",
+            "guid": "2ce56928-e5bd-4ff6-9edf-5c3cca00f850",
+            "id": "13",
+            "name": "Kali Linux",
+            "type": "url",
+            "url": "https://www.kali.org/"
+         }, {
+            "date_added": "13245775877000000",
+            "date_last_used": "0",
+            "guid": "4c6cb40c-434e-4cf3-9a69-63c7c4e8e12c",
+            "id": "14",
+            "name": "Kali Training",
+            "type": "url",
+            "url": "https://kali.training/"
+         }, {
+            "date_added": "13245775877000000",
+            "date_last_used": "0",
+            "guid": "59395436-e7ba-4c62-8d4a-2990c59b25fe",
+            "id": "15",
+            "name": "Kali Tools",
+            "type": "url",
+            "url": "https://tools.kali.org/"
+         }, {
+            "date_added": "13245775877000000",
+            "date_last_used": "0",
+            "guid": "de010bd0-9172-42fe-94af-d1c7991d7dfe",
+            "id": "16",
+            "name": "Kali Forums",
+            "type": "url",
+            "url": "https://forums.kali.org/"
+         }, {
+            "date_added": "13245775877000000",
+            "date_last_used": "0",
+            "guid": "266b676b-4088-40f3-ab6d-9969bf25d066",
+            "id": "17",
+            "name": "Kali Docs",
+            "type": "url",
+            "url": "https://www.kali.org/docs/"
+         }, {
+            "date_added": "13245775878000000",
+            "date_last_used": "0",
+            "guid": "993900fe-4ce4-4a27-9cd8-fc08ce314c12",
+            "id": "18",
+            "name": "NetHunter",
+            "type": "url",
+            "url": "https://www.kali.org/kali-linux-nethunter/"
+         }, {
+            "date_added": "13245775878000000",
+            "date_last_used": "0",
+            "guid": "edb1ed44-56e6-469e-895e-8605ddd73052",
+            "id": "19",
+            "name": "Offensive Security",
+            "type": "url",
+            "url": "https://www.offensive-security.com/"
+         }, {
+            "date_added": "13245775878000000",
+            "date_last_used": "0",
+            "guid": "b56c15bd-e823-4c10-b2f4-06b710fb0c54",
+            "id": "20",
+            "name": "MSFU",
+            "type": "url",
+            "url": "https://www.offensive-security.com/metasploit-unleashed/"
+         }, {
+            "date_added": "13245775878000000",
+            "date_last_used": "0",
+            "guid": "ae7c3ce1-b4c5-40e0-a50f-42a29473667e",
+            "id": "21",
+            "name": "Exploit-DB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/"
+         }, {
+            "date_added": "13245775878000000",
+            "date_last_used": "0",
+            "guid": "66ecd2dd-13f8-4d96-9296-0cee78f48512",
+            "id": "22",
+            "name": "GHDB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/google-hacking-database"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "2fc3f359-32a4-4f83-baaa-ea202bf8a938",
+            "id": "23",
+            "name": "Apple",
+            "type": "url",
+            "url": "http://www.apple.com/it/"
+         }, {
+            "children": [ {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "82567895-e787-4935-b2fb-5e73871258e5",
+               "id": "25",
+               "name": "eBay.it - abbigliamento, auto, cellulari, dvd, moto, tv, palmari e pc all'asta o a prezzo fisso",
+               "type": "url",
+               "url": "http://www.ebay.it/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "e7e98759-e73c-4fca-b68e-0389f0abb811",
+               "id": "26",
+               "name": "Amazon",
+               "type": "url",
+               "url": "http://www.amazon.com/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "0e59c3ac-0eb7-4485-a4cc-43cbb875d743",
+               "id": "27",
+               "name": "Flickr",
+               "type": "url",
+               "url": "http://www.flickr.com/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "e557bfac-782f-4c32-be93-5d35752f8a7e",
+               "id": "28",
+               "name": "Expedia",
+               "type": "url",
+               "url": "http://www.expedia.it/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "433a2b7b-cebf-4a3b-bb8d-d7bc05cda3bc",
+               "id": "29",
+               "name": "Craigslist",
+               "type": "url",
+               "url": "http://geo.craigslist.org/iso/it"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "4a090860-89c8-418d-8d7b-b6b1dcf316b5",
+               "id": "30",
+               "name": "Mac City",
+               "type": "url",
+               "url": "http://www.macitynet.it/macity/"
+            } ],
+            "date_added": "13319998600040904",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9f765092-88e7-4efa-88d7-27346208e4fd",
+            "id": "24",
+            "name": "I più conosciuti",
+            "type": "folder"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "7d858a82-0438-404a-9a6d-dfbca291538b",
+            "id": "31",
+            "name": "Wikipedia",
+            "type": "url",
+            "url": "http://it.wikipedia.org/"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "07c967b7-af05-4b88-aea7-8d218c5759b4",
+            "id": "32",
+            "name": "Wikimedia",
+            "type": "url",
+            "url": "http://commons.wikimedia.org/wiki/Pagina_principale"
+         }, {
+            "children": [ {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "3edb697c-da44-4804-a1f2-df10f8b3d1de",
+               "id": "34",
+               "name": "La Repubblica",
+               "type": "url",
+               "url": "http://www.repubblica.it/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "55ece36b-b394-4673-838b-f1c1b33bcd13",
+               "id": "35",
+               "name": "CNN",
+               "type": "url",
+               "url": "http://www.cnn.com/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "cbb1e0c0-d8f8-4e3b-b6f4-6d125bd5feb9",
+               "id": "36",
+               "name": "Washington Post",
+               "type": "url",
+               "url": "feed://www.washingtonpost.com/wp-dyn/rss/linkset/2005/03/24/LI2005032400102.xml"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "9c7ee3aa-b041-40ef-8745-27f47f847575",
+               "id": "37",
+               "name": "Il Sole 24 Ore",
+               "type": "url",
+               "url": "http://www.ilsole24ore.com/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "608adc73-e193-41a8-8c1e-dcb0ef6d03ba",
+               "id": "38",
+               "name": "BBC NEWS",
+               "type": "url",
+               "url": "http://news.bbc.co.uk/"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "5b7d3ff5-4009-4819-a63a-ecb26fd552bf",
+               "id": "39",
+               "name": "Wired",
+               "type": "url",
+               "url": "feed://wired.com/news/feeds/rss2/0,2610,3,00.xml"
+            }, {
+               "date_added": "13248126692000000",
+               "date_last_used": "0",
+               "guid": "945b5ffb-004a-428b-ab22-c9090341583b",
+               "id": "40",
+               "name": "Corriere della Sera",
+               "type": "url",
+               "url": "http://www.corriere.it/"
+            } ],
+            "date_added": "13319998600041067",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "4af5c166-ac36-43e7-96fa-8af1605a7870",
+            "id": "33",
+            "name": "Notizie",
+            "type": "folder"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "0ba5ab5f-b790-4d01-b47e-d701f52de5e0",
+            "id": "41",
+            "name": "www.facebook.com",
+            "type": "url",
+            "url": "http://www.facebook.com/"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "94654507-a339-49e0-83fb-4b7c5db7cd17",
+            "id": "42",
+            "name": "avaxhome.ws",
+            "type": "url",
+            "url": "http://avaxhome.ws/"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "3069b189-f2ad-42d0-8214-32da11838697",
+            "id": "43",
+            "name": "Studenti Unibo",
+            "type": "url",
+            "url": "https://cas.unibo.it/cas/login?service=https%3A%2F%2Fstudenti.unibo.it%2Fsol%2Fstudenti%2Fj_acegi_cas_security_check&cas_aware_sessionid=8AF41DF699C11366A57880A1C5E7A183.uri-joss2"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "a1b28591-6656-4296-a479-a43e3585d250",
+            "id": "44",
+            "name": "C++",
+            "type": "url",
+            "url": "http://www.doc.ic.ac.uk/~wjk/C++Intro/CourseStructure.html"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "7edbf0fa-563b-4254-928a-a6b0600ca546",
+            "id": "45",
+            "name": "posta studenti",
+            "type": "url",
+            "url": "https://db3prd0104.outlook.com/owa/"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "837ea00e-9da4-427c-96ad-8a67e1b1e295",
+            "id": "46",
+            "name": "Home",
+            "type": "url",
+            "url": "http://librigratis.org/"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "8e953e1d-3a25-4263-9363-b5253913fbc3",
+            "id": "47",
+            "name": "libri.htm",
+            "type": "url",
+            "url": "http://www.fuocosacro.com/pagine/libri/libri.htm"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "10fd4abe-327a-4fa3-b094-855a333c6d82",
+                  "id": "50",
+                  "name": "Grooveshark - Listen to Free Music Online - Internet Radio - Free MP3 Streaming",
+                  "type": "url",
+                  "url": "http://grooveshark.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "a4b2d661-61a2-436b-8638-8f78fb3718f6",
+                  "id": "51",
+                  "name": "dual boot - Installing Ubuntu on a Pre-Installed Windows 8 (64-bit) System (UEFI Supported) - Ask Ubuntu",
+                  "type": "url",
+                  "url": "http://askubuntu.com/questions/221835/installing-ubuntu-on-a-pre-installed-windows-8-64-bit-system-uefi-supported"
+               } ],
+               "date_added": "13319998600041592",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "762201c5-032e-4be4-a468-10578f3b3d6f",
+               "id": "49",
+               "name": "BookmarksMenu",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "1a416ba9-58b0-4296-91b1-e840de1dff4a",
+                  "id": "53",
+                  "name": "Georges Ivanovič Gurdjieff",
+                  "type": "url",
+                  "url": "http://it.wikipedia.org/wiki/Georges_Ivanovi%C4%8D_Gurdjieff"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "219cede5-b6c4-4084-8084-13bf49aad118",
+                  "id": "54",
+                  "name": "The Nag Hammadi Library",
+                  "type": "url",
+                  "url": "http://www.nag-hammadi.com/it/manuscripts.html"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "ee61f13b-d085-487c-bdd9-400fd36b176f",
+                  "id": "55",
+                  "name": "Codex Vaticanus",
+                  "type": "url",
+                  "url": "http://it.wikipedia.org/wiki/Codex_Vaticanus"
+               } ],
+               "date_added": "13319998600041706",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "ab49a1ba-37c1-4c9a-817b-d3e63b6a9e8e",
+               "id": "52",
+               "name": "com.apple.ReadingList",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "e0750988-a598-464b-8e76-8136eb651e03",
+                  "id": "57",
+                  "name": "A blog by Subash Adhikari: Bypass WIFI hotspots Authentication | Session Stealing",
+                  "type": "url",
+                  "url": "http://linuxtechsubash.blogspot.com.au/2013/10/bypass-wifi-hotspots-authentication.html"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "47f0b7e1-b51c-46a8-aa4a-5c65db7fc99c",
+                  "id": "58",
+                  "name": "Seriously Underrated Female Rapper - Apani B | Genius",
+                  "type": "url",
+                  "url": "http://genius.com/discussions/56570-Seriously-underrated-female-rapper-apani-b"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "9cb4e44f-f3bd-4f13-a9a9-45ceb8b48357",
+                  "id": "59",
+                  "name": "DuckDuckGo",
+                  "type": "url",
+                  "url": "https://duckduckgo.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "de8a9976-53a2-49bb-87da-f92910b7510b",
+                  "id": "60",
+                  "name": "Gutenberg",
+                  "type": "url",
+                  "url": "https://www.gutenberg.org/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "63671dcf-3bfa-4f27-b64b-951c110acfae",
+                  "id": "61",
+                  "name": "Khan Academy | Free Online Courses, Lessons & Practice",
+                  "type": "url",
+                  "url": "https://www.khanacademy.org/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "1555de1f-553e-49c6-a783-2c9cc3ef9fcd",
+                  "id": "62",
+                  "name": "Data Science | Coursera",
+                  "type": "url",
+                  "url": "https://www.coursera.org/specializations/jhu-data-science?action=enroll&authMode=signup"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "50846603-a96f-41f5-9ac5-9b73fc1aebd2",
+                  "id": "63",
+                  "name": "Visualizations — Information is Beautiful",
+                  "type": "url",
+                  "url": "https://informationisbeautiful.net/visualizations/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "fa9dbae7-6545-41be-b44b-c19d7c1dc866",
+                  "id": "64",
+                  "name": "Make: DIY Projects and Ideas for Makers |",
+                  "type": "url",
+                  "url": "https://makezine.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "becbee1a-e4ce-4d8b-9f1c-647e7fb72e17",
+                  "id": "65",
+                  "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "72dfeb8e-7bb8-4cd1-b25b-d7847befc2e5",
+                  "id": "66",
+                  "name": "Groupon: Find Local Deals and Reviews for Restaurants, Dentists, Bars, Spa, Salons, Massage, Events, Services in Your City",
+                  "type": "url",
+                  "url": "https://www.groupon.com/local"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "c95b2dbb-50c2-4fc8-b836-e805d45e2a33",
+                  "id": "67",
+                  "name": "The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.",
+                  "type": "url",
+                  "url": "https://theconversation.com/uk"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "c22058f9-4096-4df2-ab56-283b9d8c18ff",
+                  "id": "68",
+                  "name": "Business News - Indian Stock Market, Stock Market News, Business & Finance, Market Statistics | Reuters India",
+                  "type": "url",
+                  "url": "https://in.reuters.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "e709e300-c05b-4214-acfb-97e11e438736",
+                  "id": "69",
+                  "name": "Quartz — Global news and insights for leaders",
+                  "type": "url",
+                  "url": "https://qz.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "3050d9b2-50dd-43a4-a3bb-c2c64bd15a04",
+                  "id": "70",
+                  "name": "Hacker News",
+                  "type": "url",
+                  "url": "https://news.ycombinator.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "8d9f5982-7b54-4413-bc3c-2d26b3b4ec98",
+                  "id": "71",
+                  "name": "Welcome to the University of Greenwich, London",
+                  "type": "url",
+                  "url": "https://www.gre.ac.uk/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "b8025c31-81f8-4b25-a78c-b9d2071760aa",
+                  "id": "72",
+                  "name": "November 2019 Cyber Attacks Statistics – HACKMAGEDDON",
+                  "type": "url",
+                  "url": "https://www.hackmageddon.com/2019/12/18/november-2019-cyber-attacks-statistics/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "6a7c32dc-4243-4f44-b2b3-2ca25055795b",
+                  "id": "73",
+                  "name": "HACKMAGEDDON – Information Security Timelines and Statistics",
+                  "type": "url",
+                  "url": "https://www.hackmageddon.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "bb2605d5-900b-4593-895c-1a7c6da1053a",
+                  "id": "74",
+                  "name": "FILExt - The File Extension Source",
+                  "type": "url",
+                  "url": "https://filext.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "b689ebca-32a1-4239-837f-5cc360907944",
+                  "id": "75",
+                  "name": "Tom's Hardware: For The Hardcore PC Enthusiast",
+                  "type": "url",
+                  "url": "https://www.tomshardware.com/uk"
+               } ],
+               "date_added": "13319998600041825",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "471d5e7f-8105-4c8e-b772-2e42d9110875",
+               "id": "56",
+               "name": "Gjkmm",
+               "type": "folder"
+            } ],
+            "date_added": "13319998600041584",
+            "date_last_used": "0",
+            "date_modified": "13319998600041584",
+            "guid": "f31a10f0-17a7-4b25-a4f7-46d5b44c3bb8",
+            "id": "48",
+            "name": "Importati da Safari",
+            "type": "folder"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "1222ea19-1775-4b81-9f45-4434d073658c",
+            "id": "76",
+            "name": "Episodes | The Hustle",
+            "type": "url",
+            "url": "http://thehustle.co/episodes"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "ce78a98a-1a39-4b8c-8ffa-574f55c69879",
+            "id": "77",
+            "name": "Science Category - All Day",
+            "type": "url",
+            "url": "http://allday.com/category/science/"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "8ecb98c4-0c3e-434e-801f-317ba94bf39b",
+            "id": "78",
+            "name": "Panama Papers - Putin’s rich friends",
+            "type": "url",
+            "url": "http://panamapapers.sueddeutsche.de/articles/56fec05fa1bb8d3c3495adf8/"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "25580ad8-c047-4974-9d61-9498df99bbb1",
+            "id": "79",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "d0b0a728-74d7-4a5d-9cb1-e40de20cf888",
+                  "id": "82",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "c686d74d-b870-49a9-beb8-e66349eef706",
+                  "id": "83",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "7a670a65-ef68-4b46-95b8-eae0276e6d8f",
+                  "id": "84",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "5b01478a-d54d-4225-a022-eaad88d0dd97",
+                  "id": "85",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "4c41a024-586d-4838-bd92-c39c500f0110",
+                  "id": "86",
+                  "name": "Ubuntu One - The personal cloud that brings your digital life together",
+                  "type": "url",
+                  "url": "https://one.ubuntu.com/"
+               } ],
+               "date_added": "13319998600042691",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "f8ccbfdf-6b63-484f-a267-a71000f5be7b",
+               "id": "81",
+               "name": "Ubuntu and Free Software links",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "cb910552-acb1-445c-84d1-f5a6fe6885ca",
+                  "id": "88",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/firefox/help/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "0e00a7fb-d265-406d-ad72-df15c682a5e6",
+                  "id": "89",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/firefox/customize/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "2d287781-c6e6-464d-8329-4b68166308a0",
+                  "id": "90",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "12fd91c7-2260-4d09-a343-def9673317be",
+                  "id": "91",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13319998600042850",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "398ce3bf-2cde-4523-a5fe-20b45b2dd370",
+               "id": "87",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "387eaa72-8876-4063-8ebf-a35024a88549",
+                  "id": "93",
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "a7c1583d-d466-4123-b0e8-162b2f926a18",
+                  "id": "94",
+                  "name": "Gumtree Central London, London | Free Classifieds Ads",
+                  "type": "url",
+                  "url": "https://www.gumtree.com/"
+               }, {
+                  "date_added": "13248126692000000",
+                  "date_last_used": "0",
+                  "guid": "39a1d892-bf07-48fa-b71e-870632319c38",
+                  "id": "95",
+                  "name": "Google",
+                  "type": "url",
+                  "url": "https://www.google.co.uk/?gfe_rd=cr&ei=Om4SV5bdLo63-QbBo6LwBA&gws_rd=ssl"
+               } ],
+               "date_added": "13319998600042962",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "efd41199-5044-4ebe-a95f-e2b371b69212",
+               "id": "92",
+               "name": "Unsorted Bookmarks",
+               "type": "folder"
+            } ],
+            "date_added": "13319998600042683",
+            "date_last_used": "0",
+            "date_modified": "13319998600042683",
+            "guid": "02bd302c-9ad3-4869-bbb8-76b4e26df025",
+            "id": "80",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         }, {
+            "date_added": "13248126692000000",
+            "date_last_used": "0",
+            "guid": "a95d0977-a7b8-453b-9ea8-da3bf1672dcd",
+            "id": "96",
+            "name": "Manjaro",
+            "type": "url",
+            "url": "https://wiki.manjaro.org/index.php/Main_Page"
+         }, {
+            "children": [ {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "ea025c67-004d-433a-8282-9f06454f9a3e",
+               "id": "98",
+               "name": "Apple",
+               "type": "url",
+               "url": "http://www.apple.com/it/"
+            }, {
+               "children": [ {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "90442969-a233-4dc5-a23b-ed312d7d1ca7",
+                  "id": "100",
+                  "name": "eBay.it - abbigliamento, auto, cellulari, dvd, moto, tv, palmari e pc all'asta o a prezzo fisso",
+                  "type": "url",
+                  "url": "http://www.ebay.it/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "e1207641-8e63-4ad1-bdb5-c46ddbcbe88f",
+                  "id": "101",
+                  "name": "Amazon",
+                  "type": "url",
+                  "url": "http://www.amazon.com/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "74b5ea9e-d33f-420b-8d0d-b9208610c411",
+                  "id": "102",
+                  "name": "Flickr",
+                  "type": "url",
+                  "url": "http://www.flickr.com/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "b3e91dfe-2478-4723-937b-955bac6cbda3",
+                  "id": "103",
+                  "name": "Expedia",
+                  "type": "url",
+                  "url": "http://www.expedia.it/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "a67ded75-6bb0-4005-a44d-a542d3204a9d",
+                  "id": "104",
+                  "name": "Craigslist",
+                  "type": "url",
+                  "url": "http://geo.craigslist.org/iso/it"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "455c9204-fc0d-40ed-bc3d-7a6125276906",
+                  "id": "105",
+                  "name": "Mac City",
+                  "type": "url",
+                  "url": "http://www.macitynet.it/macity/"
+               } ],
+               "date_added": "13319998600043107",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "e5f60097-28d1-4b26-9df6-e16031eca874",
+               "id": "99",
+               "name": "I più conosciuti",
+               "type": "folder"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "62bca751-cec4-4ac7-a54f-04a0d2b9aab9",
+               "id": "106",
+               "name": "Wikipedia",
+               "type": "url",
+               "url": "http://it.wikipedia.org/"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "fd657c12-c7bd-40a6-b317-57ac4f8720a0",
+               "id": "107",
+               "name": "Wikimedia",
+               "type": "url",
+               "url": "http://commons.wikimedia.org/wiki/Pagina_principale"
+            }, {
+               "children": [ {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "829f8a5f-3df8-496a-937c-d9d2836d3fdd",
+                  "id": "109",
+                  "name": "La Repubblica",
+                  "type": "url",
+                  "url": "http://www.repubblica.it/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "8635052d-b5fb-4d19-934d-ce53b045452e",
+                  "id": "110",
+                  "name": "CNN",
+                  "type": "url",
+                  "url": "http://www.cnn.com/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "25e51ad1-1979-44b9-9e39-4911e35ec122",
+                  "id": "111",
+                  "name": "Washington Post",
+                  "type": "url",
+                  "url": "feed://www.washingtonpost.com/wp-dyn/rss/linkset/2005/03/24/LI2005032400102.xml"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "b6620fd6-5b3d-485e-910e-6f7b86b3bf44",
+                  "id": "112",
+                  "name": "Il Sole 24 Ore",
+                  "type": "url",
+                  "url": "http://www.ilsole24ore.com/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "a19b5452-acb4-43c8-8e46-1b2291248d51",
+                  "id": "113",
+                  "name": "BBC NEWS",
+                  "type": "url",
+                  "url": "http://news.bbc.co.uk/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "bc024b7a-1e50-4026-9080-f61e3a2f8c1a",
+                  "id": "114",
+                  "name": "Wired",
+                  "type": "url",
+                  "url": "feed://wired.com/news/feeds/rss2/0,2610,3,00.xml"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "62555625-3a7c-4922-bf62-f32e93a6dfbe",
+                  "id": "115",
+                  "name": "Corriere della Sera",
+                  "type": "url",
+                  "url": "http://www.corriere.it/"
+               } ],
+               "date_added": "13319998600043301",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b9218177-79fd-4cd6-9a62-efdcc15f3627",
+               "id": "108",
+               "name": "Notizie",
+               "type": "folder"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "90496377-bcc6-4316-979a-0945042eca1b",
+               "id": "116",
+               "name": "www.facebook.com",
+               "type": "url",
+               "url": "http://www.facebook.com/"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "62d20efa-3b9c-4f5e-aa72-11b75f3c3b6c",
+               "id": "117",
+               "name": "avaxhome.ws",
+               "type": "url",
+               "url": "http://avaxhome.ws/"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "857bb153-0ffe-4faf-aef8-b82df7016ba4",
+               "id": "118",
+               "name": "Studenti Unibo",
+               "type": "url",
+               "url": "https://cas.unibo.it/cas/login?service=https%3A%2F%2Fstudenti.unibo.it%2Fsol%2Fstudenti%2Fj_acegi_cas_security_check&cas_aware_sessionid=8AF41DF699C11366A57880A1C5E7A183.uri-joss2"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "10e8dc82-d5d3-48df-b67e-b75b3e97f55f",
+               "id": "119",
+               "name": "C++",
+               "type": "url",
+               "url": "http://www.doc.ic.ac.uk/~wjk/C++Intro/CourseStructure.html"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "1a2882e9-7f5c-484d-9985-6456d7e3c228",
+               "id": "120",
+               "name": "posta studenti",
+               "type": "url",
+               "url": "https://db3prd0104.outlook.com/owa/"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "ad4834e8-b4c0-4beb-9156-60afa89854e0",
+               "id": "121",
+               "name": "Home",
+               "type": "url",
+               "url": "http://librigratis.org/"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "75a3fd80-3660-4f6b-8e37-f7f700dd5c66",
+               "id": "122",
+               "name": "libri.htm",
+               "type": "url",
+               "url": "http://www.fuocosacro.com/pagine/libri/libri.htm"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "99b5784f-a0f6-46a5-af7a-22fc64acceee",
+                     "id": "125",
+                     "name": "Grooveshark - Listen to Free Music Online - Internet Radio - Free MP3 Streaming",
+                     "type": "url",
+                     "url": "http://grooveshark.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "09116677-81e7-47fe-a3a4-d66b6c6ee3fe",
+                     "id": "126",
+                     "name": "dual boot - Installing Ubuntu on a Pre-Installed Windows 8 (64-bit) System (UEFI Supported) - Ask Ubuntu",
+                     "type": "url",
+                     "url": "http://askubuntu.com/questions/221835/installing-ubuntu-on-a-pre-installed-windows-8-64-bit-system-uefi-supported"
+                  } ],
+                  "date_added": "13319998600043688",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "a647e911-8462-44f3-9a1c-46e10ea93e03",
+                  "id": "124",
+                  "name": "BookmarksMenu",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "c92ecf9b-6222-465e-81c0-d5fec7ac8806",
+                     "id": "128",
+                     "name": "Georges Ivanovič Gurdjieff",
+                     "type": "url",
+                     "url": "http://it.wikipedia.org/wiki/Georges_Ivanovi%C4%8D_Gurdjieff"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "e6398ec1-c4b5-4e8c-a015-d84002241e56",
+                     "id": "129",
+                     "name": "The Nag Hammadi Library",
+                     "type": "url",
+                     "url": "http://www.nag-hammadi.com/it/manuscripts.html"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "7a7a04ad-7b44-4c3b-8011-cbe5b30aa2bc",
+                     "id": "130",
+                     "name": "Codex Vaticanus",
+                     "type": "url",
+                     "url": "http://it.wikipedia.org/wiki/Codex_Vaticanus"
+                  } ],
+                  "date_added": "13319998600043801",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "215e6b85-26d1-4cdf-85e0-6babad7a5a48",
+                  "id": "127",
+                  "name": "com.apple.ReadingList",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "a7f84159-6973-4aa7-be71-90b53609001d",
+                     "id": "132",
+                     "name": "A blog by Subash Adhikari: Bypass WIFI hotspots Authentication | Session Stealing",
+                     "type": "url",
+                     "url": "http://linuxtechsubash.blogspot.com.au/2013/10/bypass-wifi-hotspots-authentication.html"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "e416fc5d-4062-469b-b7de-5f428796d654",
+                     "id": "133",
+                     "name": "Seriously Underrated Female Rapper - Apani B | Genius",
+                     "type": "url",
+                     "url": "http://genius.com/discussions/56570-Seriously-underrated-female-rapper-apani-b"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "5460bef2-797d-4849-b6fd-65fd8c1b7e3a",
+                     "id": "134",
+                     "name": "DuckDuckGo",
+                     "type": "url",
+                     "url": "https://duckduckgo.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "39b024ae-7c47-407d-ad27-8520ac2ce73d",
+                     "id": "135",
+                     "name": "Gutenberg",
+                     "type": "url",
+                     "url": "https://www.gutenberg.org/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "ed1165cc-ad83-4b54-97cc-ca6f7852529d",
+                     "id": "136",
+                     "name": "Khan Academy | Free Online Courses, Lessons & Practice",
+                     "type": "url",
+                     "url": "https://www.khanacademy.org/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "5e8efbcb-692e-4397-b29c-52ad1b6f783b",
+                     "id": "137",
+                     "name": "Data Science | Coursera",
+                     "type": "url",
+                     "url": "https://www.coursera.org/specializations/jhu-data-science?action=enroll&authMode=signup"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "6e934261-fb75-4865-8152-c95a31ddc7e8",
+                     "id": "138",
+                     "name": "Visualizations — Information is Beautiful",
+                     "type": "url",
+                     "url": "https://informationisbeautiful.net/visualizations/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "2465066f-12e1-44d3-830f-1351092a9079",
+                     "id": "139",
+                     "name": "Make: DIY Projects and Ideas for Makers |",
+                     "type": "url",
+                     "url": "https://makezine.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "65278034-d4e0-49f5-8766-ba44cdeae6be",
+                     "id": "140",
+                     "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "5026cc1e-2d58-4510-975e-070991478f8d",
+                     "id": "141",
+                     "name": "Groupon: Find Local Deals and Reviews for Restaurants, Dentists, Bars, Spa, Salons, Massage, Events, Services in Your City",
+                     "type": "url",
+                     "url": "https://www.groupon.com/local"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "948e599b-8321-4efa-a60c-c2726c49de06",
+                     "id": "142",
+                     "name": "The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.",
+                     "type": "url",
+                     "url": "https://theconversation.com/uk"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "71206f9b-8589-4c94-a39f-bca3561ea2dd",
+                     "id": "143",
+                     "name": "Business News - Indian Stock Market, Stock Market News, Business & Finance, Market Statistics | Reuters India",
+                     "type": "url",
+                     "url": "https://in.reuters.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "35c5df57-3d3e-4c0a-86f1-5042e06dbed2",
+                     "id": "144",
+                     "name": "Quartz — Global news and insights for leaders",
+                     "type": "url",
+                     "url": "https://qz.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "41c4ca23-9565-49c4-8f0f-ebd4371aed51",
+                     "id": "145",
+                     "name": "Hacker News",
+                     "type": "url",
+                     "url": "https://news.ycombinator.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "42b24ed0-05a3-429a-86f3-5c20dadb7e31",
+                     "id": "146",
+                     "name": "Welcome to the University of Greenwich, London",
+                     "type": "url",
+                     "url": "https://www.gre.ac.uk/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "73ff1dcb-b3b9-4ebf-965e-b3e9cd679e52",
+                     "id": "147",
+                     "name": "November 2019 Cyber Attacks Statistics – HACKMAGEDDON",
+                     "type": "url",
+                     "url": "https://www.hackmageddon.com/2019/12/18/november-2019-cyber-attacks-statistics/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "d09889ad-8484-4eea-a6fb-651b21703840",
+                     "id": "148",
+                     "name": "HACKMAGEDDON – Information Security Timelines and Statistics",
+                     "type": "url",
+                     "url": "https://www.hackmageddon.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "8c4d09ec-6ef4-47c2-95fd-d4e1aa5a5265",
+                     "id": "149",
+                     "name": "FILExt - The File Extension Source",
+                     "type": "url",
+                     "url": "https://filext.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "a47ff5eb-d7ed-4471-9b84-e175169722be",
+                     "id": "150",
+                     "name": "Tom's Hardware: For The Hardcore PC Enthusiast",
+                     "type": "url",
+                     "url": "https://www.tomshardware.com/uk"
+                  } ],
+                  "date_added": "13319998600043918",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "b5881d98-e95f-44b8-97ec-228900f12711",
+                  "id": "131",
+                  "name": "Gjkmm",
+                  "type": "folder"
+               } ],
+               "date_added": "13319998600043680",
+               "date_last_used": "0",
+               "date_modified": "13319998600043680",
+               "guid": "ee728689-7d63-40bc-ba3d-43bbfd168bf6",
+               "id": "123",
+               "name": "Importati da Safari",
+               "type": "folder"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "fae9a3b0-8280-4695-b55e-6f2c8e63729b",
+               "id": "151",
+               "name": "Episodes | The Hustle",
+               "type": "url",
+               "url": "http://thehustle.co/episodes"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "99c876de-ff84-410b-9ac1-ae15edc5328d",
+               "id": "152",
+               "name": "Science Category - All Day",
+               "type": "url",
+               "url": "http://allday.com/category/science/"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "6231271a-9e56-4795-b324-a0ca3de5a8af",
+               "id": "153",
+               "name": "Panama Papers - Putin’s rich friends",
+               "type": "url",
+               "url": "http://panamapapers.sueddeutsche.de/articles/56fec05fa1bb8d3c3495adf8/"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "4fd44646-32ed-40ae-9de8-19754364db2e",
+               "id": "154",
+               "name": "Getting Started",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/firefox/central/"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "7592488d-2ed5-4030-be93-1636a10c5108",
+                     "id": "157",
+                     "name": "Ubuntu",
+                     "type": "url",
+                     "url": "http://www.ubuntu.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "5b8c34ea-f6f6-4d86-9247-d35e19becc56",
+                     "id": "158",
+                     "name": "Ubuntu Wiki (community-edited website)",
+                     "type": "url",
+                     "url": "http://wiki.ubuntu.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "21b3b790-b168-4517-8293-e4a9b66bb3f5",
+                     "id": "159",
+                     "name": "Make a Support Request to the Ubuntu Community",
+                     "type": "url",
+                     "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "7c7546a7-5da0-4aa3-9634-6f7d256463e0",
+                     "id": "160",
+                     "name": "Debian (Ubuntu is based on Debian)",
+                     "type": "url",
+                     "url": "http://www.debian.org/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "d0a08115-66f9-4475-92bc-a1c8e09c2bf2",
+                     "id": "161",
+                     "name": "Ubuntu One - The personal cloud that brings your digital life together",
+                     "type": "url",
+                     "url": "https://one.ubuntu.com/"
+                  } ],
+                  "date_added": "13319998600044754",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "f64b9fe8-22bc-4a9c-a3c6-ba734f02a01b",
+                  "id": "156",
+                  "name": "Ubuntu and Free Software links",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "cd3b0312-5f45-432d-9beb-8722e3492ef4",
+                     "id": "163",
+                     "name": "Help and Tutorials",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/firefox/help/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "d4c59682-07ab-4c18-8851-bcab35868c50",
+                     "id": "164",
+                     "name": "Customize Firefox",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/firefox/customize/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "d5ecdb44-077f-426f-accb-eeb96b74dbb6",
+                     "id": "165",
+                     "name": "Get Involved",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/contribute/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "2b4c637e-4d2e-4267-86df-c56f3cdf5d88",
+                     "id": "166",
+                     "name": "About Us",
+                     "type": "url",
+                     "url": "https://www.mozilla.org/en-US/about/"
+                  } ],
+                  "date_added": "13319998600044926",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "6dc99473-9f4c-4fc4-8cd4-29184b93000b",
+                  "id": "162",
+                  "name": "Mozilla Firefox",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "bb680fce-1ce4-4d0a-ad8e-418542f798e9",
+                     "id": "168",
+                     "name": "YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "c5d44b67-a725-4d1b-a236-9847b1680336",
+                     "id": "169",
+                     "name": "Gumtree Central London, London | Free Classifieds Ads",
+                     "type": "url",
+                     "url": "https://www.gumtree.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "1c129dd8-31e6-407d-ad62-75dceaefc041",
+                     "id": "170",
+                     "name": "Google",
+                     "type": "url",
+                     "url": "https://www.google.co.uk/?gfe_rd=cr&ei=Om4SV5bdLo63-QbBo6LwBA&gws_rd=ssl"
+                  } ],
+                  "date_added": "13319998600045039",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "334eb995-2980-4d87-a141-385c6c8a436e",
+                  "id": "167",
+                  "name": "Unsorted Bookmarks",
+                  "type": "folder"
+               } ],
+               "date_added": "13319998600044745",
+               "date_last_used": "0",
+               "date_modified": "13319998600044745",
+               "guid": "8c8f96c0-5c9e-4207-ab49-38a3c4407e75",
+               "id": "155",
+               "name": "Imported From Firefox",
+               "type": "folder"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "6788a7e3-3578-4a55-8808-3d4c400d589d",
+               "id": "171",
+               "name": "Manjaro",
+               "type": "url",
+               "url": "https://wiki.manjaro.org/index.php/Main_Page"
+            } ],
+            "date_added": "13319998600043075",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "21f3580e-e148-4e65-8b8d-5523cf1b8b16",
+            "id": "97",
+            "name": "From Chromium",
+            "type": "folder"
+         }, {
+            "date_added": "13249742568000000",
+            "date_last_used": "0",
+            "guid": "3e910fe5-25e2-42a1-b158-97bf5f12194e",
+            "id": "172",
+            "name": "Dashboard",
+            "type": "url",
+            "url": "https://moodlecurrent.gre.ac.uk/my/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13297090426000000",
+                  "date_last_used": "0",
+                  "guid": "1850b177-9aa4-4712-a79b-89853a89ef0a",
+                  "id": "175",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13297090426000000",
+                  "date_last_used": "0",
+                  "guid": "26e40c24-7658-48cc-b700-2497fa94a185",
+                  "id": "176",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13297090426000000",
+                  "date_last_used": "0",
+                  "guid": "7da902a6-1a70-4a2b-be9a-fd2ff21c9ae7",
+                  "id": "177",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13297090426000000",
+                  "date_last_used": "0",
+                  "guid": "55dd2ca5-8447-4f62-aafb-9b66a986dae5",
+                  "id": "178",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               }, {
+                  "date_added": "13304246682000000",
+                  "date_last_used": "0",
+                  "guid": "8fe8f438-72ca-42dc-b4d2-6e0a465cd3e6",
+                  "id": "179",
+                  "name": "Customise Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13275505656000000",
+                  "date_last_used": "0",
+                  "guid": "e1fb9fee-dd4c-4da5-b83e-1a2bfb304584",
+                  "id": "180",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "fefb64f0-6337-4a2c-8117-ea3a9df0e654",
+                  "id": "181",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "44e0513b-f6f6-41f2-941a-31beb54f947a",
+                  "id": "182",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "ce7c4f9e-cf70-4d25-9ff2-53c84ade82bf",
+                  "id": "183",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               }, {
+                  "date_added": "13247840019000000",
+                  "date_last_used": "0",
+                  "guid": "1c875a26-65a5-4ad4-a50d-045d39bb600b",
+                  "id": "184",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-GB/products/firefox"
+               }, {
+                  "date_added": "13247840019000000",
+                  "date_last_used": "0",
+                  "guid": "587f8a83-e9ba-4a26-b68b-551c99da0d5b",
+                  "id": "185",
+                  "name": "Customise Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-GB/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13247840019000000",
+                  "date_last_used": "0",
+                  "guid": "97ea560e-8250-476c-8a45-148f61791743",
+                  "id": "186",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-GB/contribute/"
+               }, {
+                  "date_added": "13247840019000000",
+                  "date_last_used": "0",
+                  "guid": "651245a6-445f-4c5a-ba91-51e109cc2617",
+                  "id": "187",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-GB/about/"
+               }, {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "c3916627-7b06-4eb3-96eb-5e37bc38f82b",
+                  "id": "188",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               } ],
+               "date_added": "13319998600045191",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "60ad1f6f-65a6-4ab1-9749-932ec1184984",
+               "id": "174",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "c40716e4-6261-4c90-aaa7-38bffa98a029",
+                  "id": "190",
+                  "name": "Manjaro Downloads",
+                  "type": "url",
+                  "url": "https://manjaro.org/get-manjaro/"
+               }, {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "cbc1743c-f04e-4f6a-bca1-c3086c1bb2b7",
+                  "id": "191",
+                  "name": "Manjaro Homepage",
+                  "type": "url",
+                  "url": "https://manjaro.org/"
+               }, {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "23f226d8-5e7f-4343-9806-c9e429a26d5b",
+                  "id": "192",
+                  "name": "Manjaro Forum",
+                  "type": "url",
+                  "url": "http://forum.manjaro.org/"
+               }, {
+                  "date_added": "13226194087000000",
+                  "date_last_used": "0",
+                  "guid": "6f92ed88-dce7-4699-a68a-d8c945f5142d",
+                  "id": "193",
+                  "name": "Manjaro Wiki",
+                  "type": "url",
+                  "url": "http://wiki.manjaro.org/index.php/Main_Page"
+               } ],
+               "date_added": "13319998600045652",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "daaa41ac-8f21-4659-9139-bde8214fc9a1",
+               "id": "189",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "e9fdc0d2-3db5-41a5-acb7-a68a6407002f",
+                  "id": "195",
+                  "name": "(14) cybersecurity Jobs in Amsterdam, North Holland, Netherlands | LinkedIn",
+                  "type": "url",
+                  "url": "https://www.linkedin.com/jobs/search/?f_E=1&geoId=102011674&keywords=cybersecurity&location=Amsterdam%2C%20North%20Holland%2C%20Netherlands"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "10252134-3cd9-4301-8762-3cd152b7ae63",
+                  "id": "196",
+                  "name": "(16) System Security Intern | EVBox | LinkedIn",
+                  "type": "url",
+                  "url": "https://www.linkedin.com/jobs/view/1706351707/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=HIDDEN_GEM&refId=d412b737-2d36-48f7-bf75-79e89de8dd68&trk=d_flagship3_search_srp_jobs"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "aa27103b-ba68-4e92-b58e-ebc9bf7d96b2",
+                  "id": "197",
+                  "name": "System Security Intern - EVBox",
+                  "type": "url",
+                  "url": "https://evbox.recruitee.com/o/system-security-intern/c/new"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "85046868-52a5-448c-bc5d-4655b2a87b96",
+                  "id": "198",
+                  "name": "Signup - CircleCI",
+                  "type": "url",
+                  "url": "https://circleci.com/signup/?utm_source=LinkedIn&utm_medium=SCC&utm_campaign=LI_TRC_EMEA_Skills_TextAds&utm_content=Text_H1_T1"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "6f472c0b-dc5e-41dc-80b7-11741f3e156f",
+                  "id": "199",
+                  "name": "(14) it Jobs in Amsterdam, North Holland, Netherlands | LinkedIn",
+                  "type": "url",
+                  "url": "https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=1126609409&f_E=1&geoId=102011674&keywords=it&location=Amsterdam%2C%20North%20Holland%2C%20Netherlands&start=100"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "79687ed9-c9f9-459e-8023-255531bad02a",
+                  "id": "200",
+                  "name": "(14) Back-end Intern | Gen25 | LinkedIn",
+                  "type": "url",
+                  "url": "https://www.linkedin.com/jobs/view/1694706614/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=HIDDEN_GEM&refId=01acb316-f56c-4c0a-a8e3-9218ed35f062&trk=d_flagship3_search_srp_jobs"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "565e412b-e314-4e0f-8e7e-7cfa46197c5e",
+                  "id": "201",
+                  "name": "How will you contribute to the world of tomorrow?",
+                  "type": "url",
+                  "url": "https://jobs.gen25.com/vacancies/back-end-intern/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "df1aab17-0bf4-420e-af57-fadef2c714dc",
+                  "id": "202",
+                  "name": "(14) Intern (Software Development Engineering) - Amsterdam | Amazon | LinkedIn",
+                  "type": "url",
+                  "url": "https://www.linkedin.com/jobs/view/1721274653/?alternateChannel=paview"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "1f30784b-9921-4f25-90b7-fde0a0d85963",
+                  "id": "203",
+                  "name": "Applications | Amazon.jobs",
+                  "type": "url",
+                  "url": "https://account.amazon.jobs/en-US"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "858a9bdc-494f-4a79-bcff-6222416adb62",
+                  "id": "204",
+                  "name": "Job Application for Software Engineer - Intern at Databricks",
+                  "type": "url",
+                  "url": "https://boards.greenhouse.io/databricks/jobs/4353128002?gh_src=62a881d62&s=LinkedIn&source=LinkedIn"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "5151e498-a293-42c3-ace6-c45b8f470c8d",
+                  "id": "205",
+                  "name": "Data & Research Intern - Dealroom.co",
+                  "type": "url",
+                  "url": "https://dealroomco.recruitee.com/o/data-research-intern/c/new"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "79360c87-44a9-4c9e-9741-9c28118e87c3",
+                  "id": "206",
+                  "name": "Due to inactivity, the form has been closed to protect your data. Click on the button below to start your application process again.",
+                  "type": "url",
+                  "url": "https://jobs.smartrecruiters.com/oneclick-ui/session/expired?cid=108212247&jid=1467605018&pid=743999704052537"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "20ea1f45-9603-43ef-bb76-29ccffe0527c",
+                  "id": "207",
+                  "name": "Job description - Job search - Students - Careers - PwC",
+                  "type": "url",
+                  "url": "https://www.pwc.nl/en/careers/students-graduates/job-search/description.html?wdjobreqid=38537WD&wdcountry=NLD&wdjobsite=Global_Campus_Careers&wdprog=&wdisu="
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "409ea54c-a185-4cf9-8406-21e6c5eaac4b",
+                  "id": "208",
+                  "name": "Internship assurance (all offices)",
+                  "type": "url",
+                  "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Amsterdam/Meeloopstage-assurance_38537WD/apply?source=PwC_Global_Job_Board"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "aa47cce7-8551-486c-bb1f-5bcd475c74ba",
+                  "id": "209",
+                  "name": "Ace & Tate - IT Business Intern",
+                  "type": "url",
+                  "url": "https://jobs.lever.co/aceandtate/18948f9f-4f7a-4862-bc46-27ba826a8105/apply?lever-source=LinkedIn"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "ac597434-a8fe-45e8-a5e1-ec2f8cdb89ed",
+                  "id": "210",
+                  "name": "trefi.nl",
+                  "type": "url",
+                  "url": "https://trefi.nl/contact/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "18cb2051-c81a-4edb-b11e-1ed7e9fa0179",
+                  "id": "211",
+                  "name": "onehack.us | 522: Connection timed out",
+                  "type": "url",
+                  "url": "https://onehack.us/t/proxychains-anonsurf-macchanger-enhance-your-anonymity/65560"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "dd15c28c-35bc-4342-8797-46aa26e1d603",
+                  "id": "212",
+                  "name": "How to Get Telnet for MacOS in Mojave or High Sierra",
+                  "type": "url",
+                  "url": "http://osxdaily.com/2018/07/18/get-telnet-macos/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "f2a6eec2-1fa6-41d9-9cf5-cbddcbc8461e",
+                  "id": "213",
+                  "name": "Login to University of Greenwich services",
+                  "type": "url",
+                  "url": "https://orca.gre.ac.uk/cas/login?service=https%3A%2F%2Fportal.gre.ac.uk%2Fc%2Fportal%2Flogin"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "da05ec99-eaf0-4169-8431-4a3a73aaa424",
+                  "id": "214",
+                  "name": "Course: COMP-1549-M01-2019-20 Advanced Programming (Greenwich Maritime Campus)",
+                  "type": "url",
+                  "url": "https://moodlecurrent.gre.ac.uk/course/view.php?id=48076"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "eb2f1cfa-b99f-439c-b07a-964c0efd8e63",
+                  "id": "215",
+                  "name": "Login to University of Greenwich services",
+                  "type": "url",
+                  "url": "https://orca.gre.ac.uk/cas/login?service=https%3A%2F%2Fmoodlecurrent.gre.ac.uk%2Flogin%2Findex.php"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "43a0d893-4939-426d-b0b6-d8c19634e23f",
+                  "id": "216",
+                  "name": "How to Install and Dual Boot Linux on a Mac",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/187410/how-to-install-and-dual-boot-linux-on-a-mac/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "30ccca92-190f-4dfb-a365-f9f6c87a2a14",
+                  "id": "217",
+                  "name": "Is Linux Mint bad for privacy? : privacy",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/privacy/comments/4fmr8y/is_linux_mint_bad_for_privacy/"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "c60a4037-ae2f-4ae9-9f92-7042e33e4091",
+                  "id": "218",
+                  "name": "software engineering lambda at DuckDuckGo",
+                  "type": "url",
+                  "url": "https://duckduckgo.com/?q=software+engineering+lambda&ia=web"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "ba00ce4a-2e53-4f46-95b8-e7a072bd90ab",
+                  "id": "219",
+                  "name": "Computing/Technology Placements/Internships in Europe | Gradcracker - Careers for STEM Students",
+                  "type": "url",
+                  "url": "https://www.gradcracker.com/search/computing-technology/work-placements-internships-in-europe"
+               }, {
+                  "date_added": "13247922168000000",
+                  "date_last_used": "0",
+                  "guid": "b5ac32d8-b85d-4482-894d-29730a9858da",
+                  "id": "220",
+                  "name": "The first single application for the entire DevOps lifecycle - GitLab | GitLab",
+                  "type": "url",
+                  "url": "https://about.gitlab.com/"
+               }, {
+                  "children": [ {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "6b13af82-e170-4f36-83ca-1bcf65667f24",
+                     "id": "222",
+                     "name": "(62) lofi hip hop radio - beats to sleep/study to ☕️ - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=xOZV1jqVipY"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "6b2aefe9-e7f1-4854-bdb1-432bc0b8f866",
+                     "id": "223",
+                     "name": "(62) NMap 101: Port Scanning Options, HakTip 98 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=0xZqQDof-JA&list=PLlYw7XsK0HV8KG59FlUM1Fp7QrSq5eaRC&index=8"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "b33a3dfc-6e69-414a-b453-f4297cd490ad",
+                     "id": "224",
+                     "name": "Wonder How To » Fresh Hacks For a Changing World",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "c4db0f3e-6ede-428c-9852-56cb6e50ab3c",
+                     "id": "225",
+                     "name": "www.wonderhowto.com",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "99539b43-f28d-4b07-9507-c3c305d730ae",
+                     "id": "226",
+                     "name": "www.wonderhowto.com",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "e3a2ed86-981f-465f-a4b4-74622ea8c247",
+                     "id": "227",
+                     "name": "636838562261534908.jpg (984×637)",
+                     "type": "url",
+                     "url": "https://img.wonderhowto.com/img/original/49/08/63683856226153/0/636838562261534908.jpg"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "86fc9704-3124-4240-8ba3-a57387e8adbf",
+                     "id": "228",
+                     "name": "www.wonderhowto.com",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "a3c0ab24-1ec3-4c5e-8050-fdfad1926bb2",
+                     "id": "229",
+                     "name": "www.wonderhowto.com",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "4ce5369b-54c8-476b-ba46-c57f86da4fb8",
+                     "id": "230",
+                     "name": "Whonix ™ for VirtualBox with XFCE - Whonix",
+                     "type": "url",
+                     "url": "https://www.whonix.org/wiki/VirtualBox/XFCE"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "2af1fe3c-f786-4ce2-b6bc-44d5647fac6b",
+                     "id": "231",
+                     "name": "www.wonderhowto.com",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "1b3e5307-81d3-46de-b580-5b5a12ae8f58",
+                     "id": "232",
+                     "name": "www.wonderhowto.com",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "10bc41c3-0613-424d-bf65-d3478f256021",
+                     "id": "233",
+                     "name": "Wonder How To » Fresh Hacks For a Changing World",
+                     "type": "url",
+                     "url": "https://www.wonderhowto.com/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "2e8caeab-4867-491e-a38f-aeb7821fee09",
+                     "id": "234",
+                     "name": "MacOS Terminal: Create a Bootable USB from an ISO Using \"dd\" | Cybrary",
+                     "type": "url",
+                     "url": "https://www.cybrary.it/blog/0p3n/macos-terminal-create-bootable-usb-iso-using-dd/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "0d0be9db-7a99-4406-a070-6921fbf5a578",
+                     "id": "235",
+                     "name": "Whonix: The Beginner's Guide",
+                     "type": "url",
+                     "url": "https://www.funkyspacemonkey.com/whonix-the-beginners-guide"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "fbd82dcb-4852-43eb-8218-e9d7bffad6b5",
+                     "id": "236",
+                     "name": "The cleanest vimrc you’ll ever see - Yan Pritzker",
+                     "type": "url",
+                     "url": "https://yanpritzker.com/the-cleanest-vimrc-youll-ever-see-20f6158f1f1f"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "4a1ff7c8-cf4e-425a-985b-f6d3bb70b8bf",
+                     "id": "237",
+                     "name": "dotfiles/vimrc at master · skwp/dotfiles",
+                     "type": "url",
+                     "url": "https://github.com/skwp/dotfiles/blob/master/vimrc"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "0b0ac312-8731-4477-8656-e1d2405c5693",
+                     "id": "238",
+                     "name": "Configuring a persistent USB - Parrot Documentation",
+                     "type": "url",
+                     "url": "https://docs.parrotlinux.org/info/usb-live-persist/#how-to-configure-a-persistent-usb-device"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "14259be2-d8d5-47b4-b76f-c64845319e8e",
+                     "id": "239",
+                     "name": "(62) Pentesting for n00bs: Episode 1 - Legacy (hackthebox) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=JZN3JhoAdWo"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "cdc89016-5567-447d-ac63-a687d916756a",
+                     "id": "240",
+                     "name": "(62) Full Ethical Hacking Course - Beginner Network Penetration Testing (2019) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=WnN6dbos5u8"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "a7bfe2aa-1b95-4cae-9bde-b8f0368e7868",
+                     "id": "241",
+                     "name": "(62) What's in a Class? - Object Oriented Programming 02 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Vp9NhZCFrPQ&list=PLJse9iV6ReqhD_wMePwA2HPJ1y5jNmIus&index=2"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "037e5dec-759b-4385-ab37-cb1e2bd36731",
+                     "id": "242",
+                     "name": "(62) Inheritance in Java | Java Inheritance Explained | Types of Inheritance | Edureka - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=nixQyPIAnOQ&list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ&index=14"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "01d3d7b0-91fb-4588-b275-d2b62573c192",
+                     "id": "243",
+                     "name": "Full Stack Mastery - How to Build a Multi-User Chat Application in Java",
+                     "type": "url",
+                     "url": "https://fullstackmastery.com/courses/MUC"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "70d3f8c0-0b1b-4d95-93b8-f360b358d827",
+                     "id": "244",
+                     "name": "Multi-threaded chat Application in Java | Set 1 (Server Side Programming) - GeeksforGeeks",
+                     "type": "url",
+                     "url": "https://www.geeksforgeeks.org/multi-threaded-chat-application-set-1/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "60bc2c1e-bb69-48f9-9fee-312741aba2c6",
+                     "id": "245",
+                     "name": "Introducing Threads in Socket Programming in Java - GeeksforGeeks",
+                     "type": "url",
+                     "url": "https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "c86f4b88-b3dd-46ba-b88b-926312eb46a4",
+                     "id": "246",
+                     "name": "Socket Programming in Java - GeeksforGeeks",
+                     "type": "url",
+                     "url": "https://www.geeksforgeeks.org/socket-programming-in-java/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "4ceb8000-d2e7-432f-b84c-bbae6e73db2e",
+                     "id": "247",
+                     "name": "A Group chat application in Java - GeeksforGeeks",
+                     "type": "url",
+                     "url": "https://www.geeksforgeeks.org/a-group-chat-application-in-java/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "04305454-9c41-4b90-8d5b-fa748253cb59",
+                     "id": "248",
+                     "name": "(62) JoD Ep1: Building a Multi-User Chat Application in Java - Part 1: ServerSocket - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=cRfsUrU3RjE"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "715e4ae1-f467-4563-b533-cc5ade0fef08",
+                     "id": "249",
+                     "name": "(62) Amigoscode - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/user/djdjalas/search?query=java+"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "2ce6dda7-59dd-4214-8207-1c60769e7f3c",
+                     "id": "250",
+                     "name": "(62) Cyber Kill Chain - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLR0bgGon_WTLp3bTLc51w9V-linM_bfTw"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "2f53453f-9a60-49ae-aa06-89dc5eda3bc5",
+                     "id": "251",
+                     "name": "(62) 15 Python Projects in Under 15 Minutes (Code Included) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=OXi4T58PwdM"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "ca3960b7-114a-4d5d-b3af-e7e38afffcb3",
+                     "id": "252",
+                     "name": "(62) 5 Python tricks that will improve your life - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=5tcs2qXP3Pg"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "3392dcd8-143b-4052-8e11-9146475eb493",
+                     "id": "253",
+                     "name": "(62) Computer Networking Complete Course by Google - Beginner to Advanced - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=QKfk7YFILws&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDxwqj&index=2"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "16698f02-cb74-45e8-97c7-82483cb92c0b",
+                     "id": "254",
+                     "name": "(62) Java Complete Project For Beginners With Source Code - Part 1/2 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=uo_yV06qx54"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "e82cbbd3-f4c9-4a87-871a-5552e1151750",
+                     "id": "255",
+                     "name": "Java Course - C#, JAVA,PHP, Programming ,Source Code",
+                     "type": "url",
+                     "url": "https://1bestcsharp.blogspot.com/2016/03/java-course.html"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "ce934215-8f58-461b-b2c1-c7dfd81d046a",
+                     "id": "256",
+                     "name": "bash-tricks/bash_tricks.sh at master · nibalizer/bash-tricks",
+                     "type": "url",
+                     "url": "https://github.com/nibalizer/bash-tricks/blob/master/bash_tricks.sh"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "23060303-ff6e-4db9-943c-c35fa5cad4a4",
+                     "id": "257",
+                     "name": "How to Copy and Paste Text at Linux’s Bash Shell",
+                     "type": "url",
+                     "url": "https://www.howtogeek.com/440558/how-to-copy-and-paste-text-at-linuxs-bash-shell/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "f54a7808-7b55-4a42-8ec7-0bd2e4f05660",
+                     "id": "258",
+                     "name": "bash - Read a file line by line assigning the value to a variable - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/10929453/read-a-file-line-by-line-assigning-the-value-to-a-variable"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "b0806bba-d141-4d7a-9c1b-96c11787b337",
+                     "id": "259",
+                     "name": "How to prompt and read user input in a Bash shell script | alvinalexander.com",
+                     "type": "url",
+                     "url": "https://alvinalexander.com/linux-unix/shell-script-how-prompt-read-user-input-bash"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "a626171f-0390-4954-bd2c-9533ebe33694",
+                     "id": "260",
+                     "name": "3 command line games for learning Bash the fun way | Opensource.com",
+                     "type": "url",
+                     "url": "https://opensource.com/article/19/10/learn-bash-command-line-games"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "b05296e3-9944-4678-96b8-95719cb4a40a",
+                     "id": "261",
+                     "name": "Hone advanced Bash skills by building Minesweeper | Opensource.com",
+                     "type": "url",
+                     "url": "https://opensource.com/article/19/9/advanced-bash-building-minesweeper"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "e8c2167a-bcc0-4880-86b7-e8f0512787c3",
+                     "id": "262",
+                     "name": "Bash | Opensource.com",
+                     "type": "url",
+                     "url": "https://opensource.com/tags/bash"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "5642eb49-683f-4514-af55-fd8e8c5b4c7c",
+                     "id": "263",
+                     "name": "Copy, cut and paste | Vim Tips Wiki | Fandom",
+                     "type": "url",
+                     "url": "https://vim.fandom.com/wiki/Copy,_cut_and_paste"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "64db7382-90b1-430a-ac67-0b9d0e7078f3",
+                     "id": "264",
+                     "name": "BASH: When reading user input, Enter brings new line - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/10536089/bash-when-reading-user-input-enter-brings-new-line"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "3f7d0c8e-2614-4ebc-92cb-065ed02fb55f",
+                     "id": "265",
+                     "name": "Writing shell scripts - Lesson 1: Writing your first script and getting it to work",
+                     "type": "url",
+                     "url": "http://www.linuxcommand.org/lc3_wss0010.php"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "cbbc8877-4923-4aaa-bf32-85412bcd9c50",
+                     "id": "266",
+                     "name": "(62) A Beginner's Introduction to BASH Shell Scripting - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=_n5ZegzieSQ"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "fd5a2fd8-4f04-49fa-8d6e-1978eff6fad0",
+                     "id": "267",
+                     "name": "(62) Reconnaissance Phase - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=_n2MBF-wV3E"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "e972ecbf-2a6a-4774-b4d7-923a82261962",
+                     "id": "268",
+                     "name": "(62) What is a HomeLab? How can you build your own and why it's useful! - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=4O_MxTPmah4"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "9e9c6935-2165-4d50-aa37-616012c52d7f",
+                     "id": "269",
+                     "name": "(62) 10 Linux Terminal Commands for Beginners - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=CpTfQ-q6MPU"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "ebc58245-8b0c-4e06-9ca7-4b727e60ae81",
+                     "id": "270",
+                     "name": "(62) Breaking The Kill Chain: A Defensive Approach - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=II91fiUax2g"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "9790706a-397d-4498-9347-140b64576a55",
+                     "id": "271",
+                     "name": "(62) How To Think Like A Programmer - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=azcrPFhaY9k&t=14s"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "971ecd10-64e5-4d6b-8a4d-ce4ba89ee041",
+                     "id": "272",
+                     "name": "How to Read a File Line By Line in Bash | Linuxize",
+                     "type": "url",
+                     "url": "https://linuxize.com/post/how-to-read-a-file-line-by-line-in-bash/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "399686d7-926f-4aa2-9826-2511cb741539",
+                     "id": "273",
+                     "name": "educational - A game to learn how to use the Linux command line - Software Recommendations Stack Exchange",
+                     "type": "url",
+                     "url": "https://softwarerecs.stackexchange.com/questions/10543/a-game-to-learn-how-to-use-the-linux-command-line"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "2f7e1609-f8a9-41d5-9252-005ba2bc5103",
+                     "id": "274",
+                     "name": "ange a key on your keyboard at DuckDuckGo",
+                     "type": "url",
+                     "url": "https://duckduckgo.com/?q=ange+a+key+on+your+keyboard&t=chromentp&ia=web"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "adb90bfd-4c9f-44c6-adb1-a45304d75007",
+                     "id": "275",
+                     "name": "Netflix",
+                     "type": "url",
+                     "url": "https://www.netflix.com/browse"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "d7a28473-a014-4e86-a8a6-eab3a2046820",
+                     "id": "276",
+                     "name": "Is Your Data Safe in Evernote?",
+                     "type": "url",
+                     "url": "https://michaelhyatt.com/is-your-data-safe-in-evernote/"
+                  }, {
+                     "date_added": "13247922168000000",
+                     "date_last_used": "0",
+                     "guid": "a72b04f6-6542-410f-9e8f-a994d55d499e",
+                     "id": "277",
+                     "name": "Home | GNS3 Academy",
+                     "type": "url",
+                     "url": "https://gns3.teachable.com/"
+                  }, {
+                     "children": [ {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "b7495d08-6cd6-44d3-89ba-ae8a3448d140",
+                        "id": "279",
+                        "name": "(64) JoD Ep1: Building a Multi-User Chat Application in Java - Part 1: ServerSocket - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=cRfsUrU3RjE"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "977d1e39-0ae3-4c26-b6b1-a9c9c9de6d0d",
+                        "id": "280",
+                        "name": "(64) Github For The Rest Of Us - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=8_mHSdCkv3s&list=PLFjq8z-aGyQ44Uslf_hJfbqeI1dcMIYPQ&index=2&t=0s"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "7c30c485-ee5b-4e98-954f-a0b64dafa791",
+                        "id": "281",
+                        "name": "(66) Mastering the Vim Language - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=wlR5gYd6um0"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "4a294f3b-1174-47f1-bbe1-434c128f2f18",
+                        "id": "282",
+                        "name": "How To Make A Chat Application Using Sockets In Java",
+                        "type": "url",
+                        "url": "https://www.c-sharpcorner.com/article/how-to-make-a-chat-application-using-sockets-in-java/"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "90a452fe-85f6-4a00-ab4c-9dfbf309cca6",
+                        "id": "283",
+                        "name": "A Group chat application in Java - GeeksforGeeks",
+                        "type": "url",
+                        "url": "https://www.geeksforgeeks.org/a-group-chat-application-in-java/"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "1ffb767c-de36-49b4-a912-a934aa31b100",
+                        "id": "284",
+                        "name": "Multi-threaded chat Application in Java | Set 1 (Server Side Programming) - GeeksforGeeks",
+                        "type": "url",
+                        "url": "https://www.geeksforgeeks.org/multi-threaded-chat-application-set-1/"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "ffd0efd0-a42a-43ef-8af3-03cadab2f1e6",
+                        "id": "285",
+                        "name": "Amazon invites you to complete an assessment! - firezer.zanasi123@gmail.com - Gmail",
+                        "type": "url",
+                        "url": "https://mail.google.com/mail/u/0/?tab=wm&ogbl#search/amazon/FMfcgxwGDDrtVngwBKwthRHCWrSMtXnJ"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "54f869b4-6a94-44f4-9737-2ec695cab534",
+                        "id": "286",
+                        "name": "Applications | Amazon.jobs",
+                        "type": "url",
+                        "url": "https://account.amazon.jobs/en-US"
+                     }, {
+                        "date_added": "13247922168000000",
+                        "date_last_used": "0",
+                        "guid": "a4456b22-fde3-4285-9b1f-2fbcdc8b1f99",
+                        "id": "287",
+                        "name": "Full Stack Mastery - How to Build a Multi-User Chat Application in Java",
+                        "type": "url",
+                        "url": "https://fullstackmastery.com/courses/MUC/lessons/94"
+                     } ],
+                     "date_added": "13319998600049079",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "1d78a36a-6899-47a8-8e03-7582d94125ea",
+                     "id": "278",
+                     "name": "tabs",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13319998600046915",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "81eef14f-a6e2-4cf1-b908-441750db353e",
+                  "id": "221",
+                  "name": "New folder",
+                  "type": "folder"
+               } ],
+               "date_added": "13319998600045757",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "504a58fa-dd49-4d27-8ad9-441859ed2a10",
+               "id": "194",
+               "name": "New folder",
+               "type": "folder"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "29397e09-8ab6-4fa3-99f4-a2911a985a26",
+               "id": "288",
+               "name": "Grow Systems/Pots - One Stop Grow Shop Ltd",
+               "type": "url",
+               "url": "http://www.onestopgrowshop.co.uk/grow-systems-and-pots/buckets/round-bucket-with-lid-25-litre.html#/category/342"
+            }, {
+               "date_added": "13247922168000000",
+               "date_last_used": "0",
+               "guid": "61c96e04-0a2a-457d-abe2-9603192e0dec",
+               "id": "289",
+               "name": "FOR THOSE CONFUSED ABOUT WHERE TO FIND Q POSTS: You Won’t Be After Reading This Article. – QAnon",
+               "type": "url",
+               "url": "https://qanon41020.wordpress.com/2018/03/05/for-those-confused-about-where-to-find-q-posts-you-wont-be-after-reading-this-article/"
+            }, {
+               "date_added": "13293208831000000",
+               "date_last_used": "0",
+               "guid": "39ed3828-7a09-47c2-8973-761fa013bd33",
+               "id": "290",
+               "name": "Frontpage -- Terms of Service; Didn't Read",
+               "type": "url",
+               "url": "https://tosdr.org/"
+            }, {
+               "date_added": "13293208855000000",
+               "date_last_used": "0",
+               "guid": "300049e9-9541-4f50-b5fd-0cfb483b5fdf",
+               "id": "291",
+               "name": "Privacy Tools: Encryption Against Mass Surveillance",
+               "type": "url",
+               "url": "https://www.privacytools.io/#rss"
+            }, {
+               "date_added": "13293208862000000",
+               "date_last_used": "0",
+               "guid": "047c2543-0f7f-4055-87a8-f2244b53a5c2",
+               "id": "292",
+               "name": "Privacy Services by Michael Bazzell",
+               "type": "url",
+               "url": "https://inteltechniques.com/grapheneos.html"
+            }, {
+               "date_added": "13294799023000000",
+               "date_last_used": "0",
+               "guid": "21745eb8-44fb-46e0-b48d-50417b6367b6",
+               "id": "293",
+               "name": "Hacker News",
+               "type": "url",
+               "url": "https://news.ycombinator.com/news"
+            }, {
+               "date_added": "13300034526000000",
+               "date_last_used": "0",
+               "guid": "d48ae432-99de-42dd-9677-269d423a0ec7",
+               "id": "294",
+               "name": "Forensics Wiki",
+               "type": "url",
+               "url": "https://forensicswiki.xyz/page/Main_Page"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13257804695000000",
+                     "date_last_used": "0",
+                     "guid": "a8ca9689-ab57-4788-bfb9-e011cc994cfb",
+                     "id": "297",
+                     "name": "Vim Tips Wiki | Fandom",
+                     "type": "url",
+                     "url": "https://vim.fandom.com/wiki/Vim_Tips_Wiki"
+                  } ],
+                  "date_added": "13319998600050165",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "a4502cc0-55e3-481d-8c54-7808acfe3022",
+                  "id": "296",
+                  "name": "IT",
+                  "type": "folder"
+               } ],
+               "date_added": "13319998600050152",
+               "date_last_used": "0",
+               "date_modified": "13319998600050152",
+               "guid": "726edbd4-735a-48ad-8cea-f6a19c5de2fa",
+               "id": "295",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13319998600045183",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1c89f322-eed1-491d-8e7a-5f88538d591f",
+            "id": "173",
+            "name": "Imported From Firefox (1)",
+            "type": "folder"
+         } ],
+         "date_added": "13319998561381463",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13319998561381465",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13319998561381466",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

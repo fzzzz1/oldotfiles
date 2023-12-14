@@ -1,0 +1,53 @@
+%NAME%
+linux-lts
+
+%VERSION%
+5.15.91-1
+
+%BASE%
+linux-lts
+
+%DESC%
+The LTS Linux kernel and modules
+
+%URL%
+https://www.kernel.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1675243969
+
+%INSTALLDATE%
+1675341464
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+135946604
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+wireguard-lts
+
+%DEPENDS%
+coreutils
+kmod
+initramfs
+
+%OPTDEPENDS%
+wireless-regdb: to set the correct wireless channels of your country
+linux-firmware: firmware images needed for some devices
+
+%PROVIDES%
+VIRTUALBOX-GUEST-MODULES
+WIREGUARD-MODULE
+KSMBD-MODULE
+

@@ -1,0 +1,57 @@
+%NAME%
+brave-bin
+
+%VERSION%
+1:1.47.186-2
+
+%BASE%
+brave-bin
+
+%DESC%
+Web browser that blocks ads and trackers by default (binary release)
+
+%URL%
+https://brave.com
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1675538790
+
+%INSTALLDATE%
+1675538798
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+333545458
+
+%LICENSE%
+MPL2
+BSD
+custom:chromium
+
+%VALIDATION%
+none
+
+%DEPENDS%
+alsa-lib
+gtk3
+libxss
+nss
+ttf-font
+
+%OPTDEPENDS%
+cups: Printer support
+libgnome-keyring: Enable GNOME keyring support
+libnotify: Native notification support
+
+%CONFLICTS%
+brave
+
+%PROVIDES%
+brave=1.47.186
+brave-browser
+

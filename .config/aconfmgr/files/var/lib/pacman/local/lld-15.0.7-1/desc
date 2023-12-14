@@ -1,0 +1,42 @@
+%NAME%
+lld
+
+%VERSION%
+15.0.7-1
+
+%BASE%
+lld
+
+%DESC%
+Linker from the LLVM project
+
+%URL%
+https://lld.llvm.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1673560971
+
+%INSTALLDATE%
+1675207805
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+20444821
+
+%REASON%
+1
+
+%LICENSE%
+custom:Apache 2.0 with LLVM Exception
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+llvm-libs
+

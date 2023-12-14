@@ -1,0 +1,19 @@
+[Added Associations]
+video/x-matroska=mpv.desktop;kodi.desktop;vlc.desktop;
+video/mp4=mpv.desktop;
+application/pdf=libreoffice-writer.desktop;org.pwmt.zathura-pdf-mupdf.desktop;firefox.desktop;
+text/markdown=lvim.desktop;firefox.desktop;
+x-scheme-handler/rdp=org.remmina.Remmina.desktop;
+x-scheme-handler/spice=org.remmina.Remmina.desktop;
+x-scheme-handler/vnc=org.remmina.Remmina.desktop;
+x-scheme-handler/remmina=org.remmina.Remmina.desktop;
+application/x-remmina=org.remmina.Remmina.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-ZEXE11.desktop;org.telegram.desktop.desktop;
+
+[Default Applications]
+x-scheme-handler/rdp=org.remmina.Remmina.desktop
+x-scheme-handler/spice=org.remmina.Remmina.desktop
+x-scheme-handler/vnc=org.remmina.Remmina.desktop
+x-scheme-handler/remmina=org.remmina.Remmina.desktop
+application/x-remmina=org.remmina.Remmina.desktop
+x-scheme-handler/tg=org.telegram.desktop.desktop

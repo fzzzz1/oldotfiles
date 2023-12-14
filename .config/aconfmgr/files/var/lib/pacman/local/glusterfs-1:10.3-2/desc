@@ -1,0 +1,55 @@
+%NAME%
+glusterfs
+
+%VERSION%
+1:10.3-2
+
+%BASE%
+glusterfs
+
+%DESC%
+a cluster file-system capable of scaling to several peta-bytes.
+
+%URL%
+https://www.gluster.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1667319503
+
+%INSTALLDATE%
+1675341759
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+18728654
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+LGPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+fuse
+python
+libxml2
+libaio
+liburcu
+attr
+rpcbind
+liburing
+gperftools
+
+%OPTDEPENDS%
+glib2: qemu-block
+python-prettytable: gluster-georep-sshkey
+

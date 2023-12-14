@@ -1,0 +1,36 @@
+%NAME%
+ttf-font-awesome
+
+%VERSION%
+6.2.1-1
+
+%BASE%
+font-awesome
+
+%DESC%
+Iconic font designed for Bootstrap
+
+%URL%
+https://fontawesome.com/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1668865866
+
+%INSTALLDATE%
+1675141628
+
+%PACKAGER%
+Morten Linderud <foxboron@archlinux.org>
+
+%SIZE%
+663431
+
+%LICENSE%
+custom:OFL
+
+%VALIDATION%
+pgp
+

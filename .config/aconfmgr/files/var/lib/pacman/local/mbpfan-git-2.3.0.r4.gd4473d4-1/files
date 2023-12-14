@@ -1,0 +1,23 @@
+%FILES%
+etc/
+etc/mbpfan.conf
+usr/
+usr/bin/
+usr/bin/mbpfan
+usr/lib/
+usr/lib/modules-load.d/
+usr/lib/modules-load.d/mbpfan.depend.conf
+usr/lib/systemd/
+usr/lib/systemd/system/
+usr/lib/systemd/system/mbpfan.service
+usr/share/
+usr/share/doc/
+usr/share/doc/mbpfan/
+usr/share/doc/mbpfan/README.md
+usr/share/man/
+usr/share/man/man8/
+usr/share/man/man8/mbpfan.8.gz
+
+%BACKUP%
+etc/mbpfan.conf	ed9e66868e59fc6f2eced5494fdb0f48
+

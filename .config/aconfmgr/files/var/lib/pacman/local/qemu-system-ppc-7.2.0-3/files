@@ -1,0 +1,11 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/qemu-system-ppc
+usr/bin/qemu-system-ppc64
+usr/share/
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/qemu-system-ppc.1.gz
+usr/share/man/man1/qemu-system-ppc64.1.gz
+

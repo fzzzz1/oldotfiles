@@ -1,0 +1,9 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/qemu-system-alpha
+usr/share/
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/qemu-system-alpha.1.gz
+

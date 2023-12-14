@@ -1,0 +1,175 @@
+{
+	"layer": "top",
+	"modules-left": ["custom/launcher","cpu","memory","disk","backlight","custom/media","tray"],
+	"modules-center": ["wlr/workspaces","hyprland/window"],
+	"modules-right": ["custom/updates","network","pulseaudio","clock", "battery","custom/power"],
+	
+    "pulseaudio": {
+      "format": "{icon} {volume}% {format_source}",
+      "format-muted": " Mute",
+      "format-bluetooth": " {volume}% {format_source}",
+      "format-bluetooth-muted": " Mute",
+      "format-source": " {volume}",
+      "format-source-muted": "",
+      "format-icons": {
+        "headphone": "",
+        "hands-free": "",
+        "headset": "",
+        "phone": "",
+        "portable": "",
+        "car": "",
+        "default": ["", "", ""]
+      },
+      "scroll-step": 5.0,
+      "on-click":"wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle && wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle",
+      /* "on-click": "pamixer -t", */
+      /* "on-click-right": "pavucontrol", */
+      "on-scroll-up": "~/.config/hypr/scripts/volume --inc",
+      "on-scroll-down": "~/.config/hypr/scripts/volume --dec",
+      "smooth-scrolling-threshold": 1,
+    },
+    "wlr/workspaces": {
+      "format": "{icon}",
+      "on-click": "activate",
+      "all-outputs": true,
+      "sort-by-number": true,
+      "format-icons": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "10": "10",
+        "focused": "",
+        "default": ""
+    },
+    "on-scroll-up": "hyprctl dispatch workspace e+1",
+    "on-scroll-down": "hyprctl dispatch workspace e-1",
+    },
+    "hyprland/window": {
+      /* "format": "👉 {}", */
+      "format": "{}",
+      "separate-outputs": true
+    },
+    "network": {
+      "interface": "wlan0",
+      "format": "{ifname}",
+      "format-wifi": "{essid} ({signalStrength}%) ",
+      "format-ethernet": "{ipaddr}/{cidr} ",
+      "format-disconnected": "睊 Disconnected",
+      "format-disabled": "睊 Disabled",
+      "format-alt": " {bandwidthUpBits} |  {bandwidthDownBits}",
+      "tooltip-format": " {ifname} via {gwaddr}",
+      "tooltip-format-ethernet": "{ifname} ",
+      "tooltip-format-disconnected": "Disconnected",
+      "max-length": 50
+    },
+    "backlight": {
+      "tooltip": false,
+      "format": " {}%",
+      "smooth-scrolling-threshold": 5,
+      "on-scroll-up": "light -A 5",
+      "on-scroll-down": "light -U 5"
+    },
+    "battery": {
+      "full-at": 88,
+      "states": {
+          "good": 85,
+          "warning": 30,
+          "critical": 20
+      },
+      "format": "{icon}  {capacity}%",
+      "format-charging": " {capacity}%",
+      "format-plugged": " {capacity}%",
+      "format-alt": "{time} {icon}",
+      "format-icons": ["", "", "", "", ""]
+    },
+    "tray":{
+      "icon-size":18,
+      "spacing": 10
+    },
+    "clock": {
+      "interval": 60,
+      "align": 0,
+      "rotate": 0,
+      "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>",
+      "format": " {:%d %b, %H:%M}",
+      "format-alt": " {:%a %b %d, %G}",
+      "on-click-right": "~/.config/hypr/scripts/changeWallpaper",
+    },
+    "cpu": {
+      "interval": 15,
+      "format": " {}%",
+      "max-length": 10
+    },
+    "memory": {
+      "interval": 30,
+      "format": "󰍛 {}%",
+      "max-length": 10
+    },
+    "disk": {
+      "interval": 30,
+      "format": "󰋊 Free: {free} ({percentage_free}%)",
+      /* "format": "Only {percentage_free}% remaining on {path}", */
+      "path": "/"
+    },
+    /* "custom/media": { */
+    /*     "interval": 30, */
+    /*     "format": "{icon} {}", */
+    /*     "return-type": "json", */
+    /*     "max-length": 20, */
+    /*     "format-icons": { */
+    /*         "spotify": " ", */
+    /*         "default": " " */
+    /*     }, */
+    /*     "escape": true, */
+    /*     "exec": "$HOME/.config/system_scripts/mediaplayer.py 2> /dev/null", */
+    /*     "on-click": "playerctl play-pause" */
+    /* }, */
+    "custom/media": {
+        "format": "{icon} {}",
+        "escape": true,
+        "return-type": "json",
+        "max-length": 40,
+        "on-click": "playerctl play-pause",
+        "on-click-right": "playerctl stop",
+        "smooth-scrolling-threshold": 10, // This value was tested using a trackpad, it should be lowered if using a mouse.
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous",
+        "exec": "$HOME/.config/hypr/scripts/mediaplayer.py 2> /dev/null", // Script in resources/custom_modules folder
+    },
+    "custom/launcher":{
+        "format": "    ",
+        "on-click": "pkill wofi || /home/fritz/.config/hypr/scripts/menu",
+        "on-click-right": "killall wofi"
+    },
+    "custom/power":{
+        "format": " ",
+        "on-click": "bash ~/.config/rofi/leave/leave.sh",
+    },
+    "custom/updates":{
+        "format": "{} Update(s)",
+        "exec": "checkupdates | wc -l",
+        "exec-if": "[[ $(checkupdates | wc -l) != 0 ]]",
+        "interval": 15,
+        "on-click": "kitty -e paru -Syyu && notify-send 'The system has been updated' "
+    },
+    "custom/weather": {
+      "format": "{}",
+      "format-alt": "{alt}: {}",
+      "format-alt-click": "click-right",
+      "interval": 1800,
+      "return-type": "json",
+      "exec": "~/.config/hypr/scripts/weather.sh",
+      "exec-if": "ping wttr.in -c1"
+    },
+    "custom/wallpaper":{
+        "format":" ",
+        "on-click": "bash ~/.config/system_scripts/pkill_bc"
+    }
+}
+

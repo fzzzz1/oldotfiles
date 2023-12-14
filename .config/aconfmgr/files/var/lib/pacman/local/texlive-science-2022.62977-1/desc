@@ -1,0 +1,45 @@
+%NAME%
+texlive-science
+
+%VERSION%
+2022.62977-1
+
+%BASE%
+texlive-science
+
+%DESC%
+TeX Live - Typesetting for mathematics, natural and computer sciences
+
+%URL%
+http://tug.org/texlive/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1650181575
+
+%INSTALLDATE%
+1675475013
+
+%PACKAGER%
+Rémy Oudompheng <remy@archlinux.org>
+
+%SIZE%
+18002433
+
+%GROUPS%
+texlive-most
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+texlive-core
+
+%OPTDEPENDS%
+texlive-latexextra: required for algorithm2e package
+

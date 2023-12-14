@@ -1,0 +1,45 @@
+%NAME%
+youtube-dl
+
+%VERSION%
+2021.12.17-1
+
+%BASE%
+youtube-dl
+
+%DESC%
+A command-line program to download videos from YouTube.com and a few more sites
+
+%URL%
+https://ytdl-org.github.io/youtube-dl/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1639700438
+
+%INSTALLDATE%
+1674705699
+
+%PACKAGER%
+Daniel M. Capella <polyzen@archlinux.org>
+
+%SIZE%
+14130418
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+
+%OPTDEPENDS%
+ffmpeg: for video post-processing
+rtmpdump: for rtmp streams support
+atomicparsley: for embedding thumbnails into m4a files
+python-pycryptodome: for hlsnative downloader
+

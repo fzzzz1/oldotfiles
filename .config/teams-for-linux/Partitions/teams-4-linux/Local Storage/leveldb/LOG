@@ -1,0 +1,8 @@
+2023/02/03-20:37:21.741 e97a Creating DB /home/fritz/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb since it was missing.
+2023/02/03-20:37:21.757 e97a Reusing MANIFEST /home/fritz/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
+2023/02/03-20:40:09.949 ed4b Level-0 table #5: started
+2023/02/03-20:40:09.958 ed4b Level-0 table #5: 72167 bytes OK
+2023/02/03-20:40:09.961 ed4b Delete type=0 #3
+2023/02/03-20:41:09.935 f0f4 Level-0 table #7: started
+2023/02/03-20:41:09.946 f0f4 Level-0 table #7: 545934 bytes OK
+2023/02/03-20:41:09.950 f0f4 Delete type=0 #4

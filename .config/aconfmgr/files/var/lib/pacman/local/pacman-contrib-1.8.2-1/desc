@@ -1,0 +1,48 @@
+%NAME%
+pacman-contrib
+
+%VERSION%
+1.8.2-1
+
+%BASE%
+pacman-contrib
+
+%DESC%
+Contributed scripts and tools for pacman systems
+
+%URL%
+https://gitlab.archlinux.org/pacman/pacman-contrib
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1672826859
+
+%INSTALLDATE%
+1674705697
+
+%PACKAGER%
+Daniel M. Capella <polyzen@archlinux.org>
+
+%SIZE%
+123519
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+fakeroot
+pacman
+perl
+
+%OPTDEPENDS%
+diffutils: for pacdiff
+findutils: for pacdiff --find
+mlocate: for pacdiff --locate
+sudo: privilege elevation for several scripts
+vim: default merge program for pacdiff
+

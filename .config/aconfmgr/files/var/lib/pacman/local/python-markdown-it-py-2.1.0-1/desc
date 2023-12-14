@@ -1,0 +1,45 @@
+%NAME%
+python-markdown-it-py
+
+%VERSION%
+2.1.0-1
+
+%BASE%
+python-markdown-it-py
+
+%DESC%
+Python port of markdown-it. Markdown parsing, done right!
+
+%URL%
+https://github.com/executablebooks/markdown-it-py
+
+%ARCH%
+any
+
+%BUILDDATE%
+1662230656
+
+%INSTALLDATE%
+1675346327
+
+%PACKAGER%
+Filipe Laíns <lains@archlinux.org>
+
+%SIZE%
+509192
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-mdurl
+
+%OPTDEPENDS%
+python-mdit_py_plugins: core plugins
+

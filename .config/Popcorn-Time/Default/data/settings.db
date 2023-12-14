@@ -1,0 +1,45 @@
+{"key":"dhtInfo","value":{"server":"https://shows.cf/,https://movies-api.tk/,https://movies-api.gq/","git":"https://github.com/popcorn-official/popcorn-desktop/","site":"https://shows.cf/","r":"PopcornTimeApp","v":"0.4.9","keys":{"os":"Butter","fanart":"ce4bba4b3cc473306c6cddb4e1cb0da4","tvdb":"80A769280C71D83B","tmdb":"ac92176abc89a80e6f5df9510e326601","trakttv":{"id":"647c69e4ed1ad13393bf6edd9d8f9fb6fe9faf405b44320a6b71ab960b4540a2","s":"f55b0a53c63af683588b47f6de94226b7572a6f83f40bd44c58a7c83fe1f2cb1"}}},"_id":"4yoTh2ypZExQNrYf"}
+{"key":"playerVolume","value":"1.00","_id":"8OCKmo9URIX1UJ6o"}
+{"key":"opensubtitlesAuthenticated","value":true,"_id":"AC3UyXDL99gmXeqR"}
+{"key":"opensubtitlesPassword","value":"e503eb954d068bbe6a6de302fe5bcfd3","_id":"CLgkuPxZ8NJSsqBk"}
+{"key":"subtitle_language","value":"en","_id":"G4SqS9SjUpUgQSQE"}
+{"key":"language","value":"en","_id":"IjPfc5Lm4KnwWzqh"}
+{"key":"automaticUpdating","value":true,"_id":"IqcCu1D5yxeordz4"}
+{"key":"arch","value":"x64","_id":"J8XQA16ssPuRIUBw"}
+{"key":"ratingStars","value":false,"_id":"LE5xck1s8VmVhbRQ"}
+{"key":"deleteTmpOnClose","value":false,"_id":"N1VKYXL5r8OeGHbq"}
+{"key":"lastWatchedTime","value":953.575031,"_id":"QVZLrJV7BfkLK7Jy"}
+{"key":"releaseName","value":"Ogres are not like cakes","_id":"RIuEW8EfapEWY1ko"}
+{"key":"dhtEnable","value":true,"_id":"RvAwomYUnZxhExOp"}
+{"key":"dhtData","value":"{\"server\":\"https://shows.cf/,https://movies-api.tk/,https://movies-api.gq/\",\"git\":\"https://github.com/popcorn-official/popcorn-desktop/\",\"site\":\"https://shows.cf/\",\"r\":\"PopcornTimeApp\",\"v\":\"0.4.9\",\"keys\":{\"os\":\"Butter\",\"fanart\":\"ce4bba4b3cc473306c6cddb4e1cb0da4\",\"tvdb\":\"80A769280C71D83B\",\"tmdb\":\"ac92176abc89a80e6f5df9510e326601\",\"trakttv\":{\"id\":\"647c69e4ed1ad13393bf6edd9d8f9fb6fe9faf405b44320a6b71ab960b4540a2\",\"s\":\"f55b0a53c63af683588b47f6de94226b7572a6f83f40bd44c58a7c83fe1f2cb1\"}}}","_id":"SQNIi4DEa4scJlow"}
+{"key":"ipAddress","value":"192.168.1.111","_id":"VvCSFLYtc1hI1fVO"}
+{"key":"totalUploaded","value":1108617985,"_id":"WQjDisHLlTyIgubU"}
+{"key":"activateLoCtrl","value":true,"_id":"YwEMwV2oGEOBiOq1"}
+{"key":"version","value":"0.4.9","_id":"a6e3LnSavKLbbdj2"}
+{"key":"chosenPlayer","value":"local","_id":"aW6vgGHR99EmpGhR"}
+{"key":"totalDownloaded","value":33791660996,"_id":"aYrhGFWsnKCHVVRX"}
+{"key":"disclaimerAccepted","value":1,"_id":"bpwBk1KaceqLWrcP"}
+{"key":"movies_default_quality","value":"2160p","_id":"c7umLDE65H96n7wo"}
+{"key":"lastWatchedTitle","value":"Depp.v.Heard.S01E02.iNTERNAL.1080p.WEB.h264-EDITH[eztv.re].mkv","_id":"cYfODf7WwaLBg1Fw"}
+{"key":"postersWidth","value":174,"_id":"chHhlMQtNzXWHcHN"}
+{"key":"tmpLocation","value":"/home/fritz/Videos/Movies/Popcorn Time","_id":"f2K0nradamTs8dEY"}
+{"key":"dhtDataUpdated","value":1701652554738,"_id":"fqra3nPG9wIeRs1k"}
+{"key":"subtitle_size","value":"24px","_id":"hMc6tJW9xrY6wghN"}
+{"key":"opensubtitlesUsername","value":"fz1913e","_id":"ij0tcqMUFPebCRIG"}
+{"key":"os","value":"linux","_id":"mpLHgopiUi00gZxI"}
+{"key":"shows_default_quality","value":"2160p","_id":"vJb4fVLy5y5O25yq"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.4.9","_id":"a6e3LnSavKLbbdj2"}
+{"key":"releaseName","value":"Ogres are not like cakes","_id":"RIuEW8EfapEWY1ko"}
+{"key":"arch","value":"x64","_id":"J8XQA16ssPuRIUBw"}
+{"key":"os","value":"linux","_id":"mpLHgopiUi00gZxI"}
+{"key":"shows_default_quality","value":"1080p","_id":"vJb4fVLy5y5O25yq"}
+{"key":"totalDownloaded","value":33791660996,"_id":"aYrhGFWsnKCHVVRX"}
+{"key":"totalUploaded","value":1108618821,"_id":"WQjDisHLlTyIgubU"}
+{"key":"totalDownloaded","value":33791660996,"_id":"aYrhGFWsnKCHVVRX"}
+{"key":"totalUploaded","value":1108652339,"_id":"WQjDisHLlTyIgubU"}
+{"key":"playerVolume","value":"1.00","_id":"8OCKmo9URIX1UJ6o"}
+{"key":"lastWatchedTitle","value":"Game of Thrones S01E10 Fire and Blood.mkv","_id":"cYfODf7WwaLBg1Fw"}
+{"key":"lastWatchedTime","value":7.327794000000001,"_id":"QVZLrJV7BfkLK7Jy"}
+{"key":"totalDownloaded","value":33817503233,"_id":"aYrhGFWsnKCHVVRX"}
+{"key":"totalUploaded","value":1108772933,"_id":"WQjDisHLlTyIgubU"}

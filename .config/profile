@@ -1,0 +1,63 @@
+
+
+source $HOME/bin/global.sh
+
+################################################################################
+# Environment Variables
+################################################################################
+export EDITOR=nvim
+
+################################################################################
+# Short cuts
+################################################################################
+alias ls='lsd --color=always'
+alias l='lsd'
+alias ll='lsd -lah'
+alias vim='vim'
+alias vg='nvim-qt'
+alias v='nvim'
+alias sv='sudo nvim'
+alias svg='sudo nvim-qt'
+alias sp='sudo pacman'
+alias update='sudo pacman -Syyuu'
+alias pk='pikaur'
+alias c='clear'
+alias g='grep --color=always'
+
+alias lvim="/home/fritz/.local/bin/lvim"
+
+# Color Outputs
+alias diff='diff --color=auto'
+alias grep='grep --color=auto'
+alias ip='ip -color=auto'
+
+# Git Customization
+alias gs='git status'
+alias look="pacman -Slq | fzf --multi --preview 'pacman -Si {1}' | xargs -ro sudo pacman -S"
+
+# nnn Customization
+export NNN_COLORS="2136" 
+export NNN_ARCHIVE="\\.(7z|bz2|gz|tar|tgz|zip)$"
+export NNN_TRASH=1
+export NNN_FIFO='/tmp/nnn.fifo'
+
+################################################################################
+# Useful Shell functions 
+################################################################################
+# -- A simple function to display man pages in PDF
+pman() {
+	man -t $1 | ps2pdf - | zathura - &> /dev/null & disown 
+}
+# -- coloured manuals
+man() {
+  env \
+    LESS_TERMCAP_mb=$(printf "\e[1;31m") \
+    LESS_TERMCAP_md=$(printf "\e[1;31m") \
+    LESS_TERMCAP_me=$(printf "\e[0m") \
+    LESS_TERMCAP_se=$(printf "\e[0m") \
+    LESS_TERMCAP_so=$(printf "\e[1;44;33m") \
+    LESS_TERMCAP_ue=$(printf "\e[0m") \
+    LESS_TERMCAP_us=$(printf "\e[1;32m") \
+    man "$@"
+}
+

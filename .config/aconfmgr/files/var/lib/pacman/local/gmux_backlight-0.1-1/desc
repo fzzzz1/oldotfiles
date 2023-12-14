@@ -1,0 +1,36 @@
+%NAME%
+gmux_backlight
+
+%VERSION%
+0.1-1
+
+%BASE%
+gmux_backlight
+
+%DESC%
+Modify brightness of displays attached to a gmux.
+
+%URL%
+https://github.com/problame/gmux_backlight
+
+%ARCH%
+any
+
+%BUILDDATE%
+1674831883
+
+%INSTALLDATE%
+1674831887
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+16196
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+none
+

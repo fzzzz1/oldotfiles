@@ -1,0 +1,12 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/dust
+usr/share/
+usr/share/doc/
+usr/share/doc/dust/
+usr/share/doc/dust/README.md
+usr/share/licenses/
+usr/share/licenses/dust/
+usr/share/licenses/dust/LICENSE
+

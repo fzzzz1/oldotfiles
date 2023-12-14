@@ -1,0 +1,49 @@
+%NAME%
+pciutils
+
+%VERSION%
+3.9.0-2
+
+%BASE%
+pciutils
+
+%DESC%
+PCI bus configuration space access library and tools
+
+%URL%
+https://mj.ucw.cz/sw/pciutils/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1671463082
+
+%INSTALLDATE%
+1674704464
+
+%PACKAGER%
+Tobias Powalowski <tpowa@archlinux.org>
+
+%SIZE%
+308736
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+hwdata
+kmod
+
+%OPTDEPENDS%
+which: for update-pciids
+grep: for update-pciids
+curl: for update-pciids
+

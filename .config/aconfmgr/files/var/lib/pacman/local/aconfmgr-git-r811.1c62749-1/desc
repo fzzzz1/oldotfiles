@@ -1,0 +1,53 @@
+%NAME%
+aconfmgr-git
+
+%VERSION%
+r811.1c62749-1
+
+%BASE%
+aconfmgr-git
+
+%DESC%
+A configuration manager for Arch Linux
+
+%URL%
+https://github.com/CyberShadow/aconfmgr
+
+%ARCH%
+any
+
+%BUILDDATE%
+1675548489
+
+%INSTALLDATE%
+1675548491
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+116751
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+none
+
+%DEPENDS%
+bash
+pacman
+grep
+gawk
+diffutils
+pacutils
+expect
+
+%OPTDEPENDS%
+aurman: aurman integration
+pacaur: pacaur integration
+paru: paru integration
+yay: yay integration
+git: for fetching AUR packages
+augeas: configuration file editing
+

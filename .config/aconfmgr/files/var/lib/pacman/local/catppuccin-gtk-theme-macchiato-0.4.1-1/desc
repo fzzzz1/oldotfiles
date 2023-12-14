@@ -1,0 +1,36 @@
+%NAME%
+catppuccin-gtk-theme-macchiato
+
+%VERSION%
+0.4.1-1
+
+%BASE%
+catppuccin-gtk-theme-macchiato
+
+%DESC%
+Soothing pastel theme for GTK3 - Macchiato
+
+%URL%
+https://github.com/catppuccin/gtk
+
+%ARCH%
+any
+
+%BUILDDATE%
+1674959812
+
+%INSTALLDATE%
+1674960242
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+21273675
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+none
+

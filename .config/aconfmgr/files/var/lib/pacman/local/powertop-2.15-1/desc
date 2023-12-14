@@ -1,0 +1,45 @@
+%NAME%
+powertop
+
+%VERSION%
+2.15-1
+
+%BASE%
+powertop
+
+%DESC%
+A tool to diagnose issues with power consumption and power management
+
+%URL%
+https://01.org/powertop/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1664469509
+
+%INSTALLDATE%
+1674705887
+
+%PACKAGER%
+Jaroslav Lichtblau <svetlemodry@archlinux.org>
+
+%SIZE%
+530366
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+libnl
+ncurses
+pciutils
+
+%OPTDEPENDS%
+xorg-xset: for the --calibrate function
+

@@ -1,0 +1,9 @@
+2023/02/04-22:02:26.061 bec Reusing MANIFEST /home/fritz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/04-22:02:26.061 bec Recovering log #22
+2023/02/04-22:02:26.067 bec Reusing old log /home/fritz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
+2023/02/04-22:02:26.160 bea Compacting 1@1 + 1@2 files
+2023/02/04-22:02:26.167 bea Generated table #25@1: 342 keys, 40120 bytes
+2023/02/04-22:02:26.167 bea Compacted 1@1 + 1@2 files => 40120 bytes
+2023/02/04-22:02:26.170 bea compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/04-22:02:26.170 bea Delete type=2 #20
+2023/02/04-22:02:26.170 bea Delete type=2 #23

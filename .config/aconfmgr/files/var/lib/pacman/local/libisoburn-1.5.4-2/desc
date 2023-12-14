@@ -1,0 +1,52 @@
+%NAME%
+libisoburn
+
+%VERSION%
+1.5.4-2
+
+%BASE%
+libisoburn
+
+%DESC%
+frontend for libraries libburn and libisofs
+
+%URL%
+https://dev.lovelyhq.com/libburnia
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1617443938
+
+%INSTALLDATE%
+1675458398
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+1791718
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libburn
+libisofs
+readline
+
+%OPTDEPENDS%
+tk: for xorriso-tcltk frontend
+sudo: for use with xorriso-dd-target
+
+%PROVIDES%
+xorriso
+xorriso-tcltk
+

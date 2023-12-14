@@ -1,0 +1,46 @@
+%NAME%
+libplist
+
+%VERSION%
+2.2.0-6
+
+%BASE%
+libplist
+
+%DESC%
+A library to handle Apple Property List format whereas it's binary or XML
+
+%URL%
+https://libimobiledevice.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1674898953
+
+%INSTALLDATE%
+1674912302
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+412053
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+LGPL2.1
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+
+%OPTDEPENDS%
+python: for the Python bindings
+

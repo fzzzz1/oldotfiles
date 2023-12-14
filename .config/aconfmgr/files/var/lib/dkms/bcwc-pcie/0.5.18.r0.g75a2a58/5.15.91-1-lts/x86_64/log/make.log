@@ -1,0 +1,17 @@
+DKMS make.log for bcwc-pcie-0.5.18.r0.g75a2a58 for kernel 5.15.91-1-lts (x86_64)
+Thu  2 Feb 12:37:49 GMT 2023
+make: Entering directory '/usr/lib/modules/5.15.91-1-lts/build'
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_ddr.o
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_hw.o
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_drv.o
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_ringbuf.o
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_isp.o
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_v4l2.o
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_buffer.o
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/fthd_debugfs.o
+  LD [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/facetimehd.o
+  MODPOST /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/Module.symvers
+  CC [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/facetimehd.mod.o
+  LD [M]  /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/facetimehd.ko
+  BTF [M] /var/lib/dkms/bcwc-pcie/0.5.18.r0.g75a2a58/build/facetimehd.ko
+make: Leaving directory '/usr/lib/modules/5.15.91-1-lts/build'

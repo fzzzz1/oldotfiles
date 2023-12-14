@@ -1,0 +1,47 @@
+%NAME%
+libde265
+
+%VERSION%
+1.0.11-1
+
+%BASE%
+libde265
+
+%DESC%
+Open h.265 video codec implementation
+
+%URL%
+https://github.com/strukturag/libde265
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1675287085
+
+%INSTALLDATE%
+1675309098
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+816649
+
+%REASON%
+1
+
+%LICENSE%
+LGPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+
+%OPTDEPENDS%
+ffmpeg: for sherlock265
+qt5-base: for sherlock265
+sdl: dec265 YUV overlay output
+

@@ -1,0 +1,49 @@
+%NAME%
+libnewt
+
+%VERSION%
+0.52.23-1
+
+%BASE%
+libnewt
+
+%DESC%
+Not Erik's Windowing Toolkit - text mode windowing with slang
+
+%URL%
+https://pagure.io/newt
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1669813158
+
+%INSTALLDATE%
+1674704470
+
+%PACKAGER%
+Alexander Rødseth <rodseth@gmail.com>
+
+%SIZE%
+284890
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gpm
+libxcrypt
+popt
+slang
+
+%OPTDEPENDS%
+python: libnewt support with the _snack module
+tcl: whiptcl support
+

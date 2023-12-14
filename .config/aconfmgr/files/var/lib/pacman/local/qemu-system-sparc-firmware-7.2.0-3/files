@@ -1,0 +1,9 @@
+%FILES%
+usr/
+usr/share/
+usr/share/qemu/
+usr/share/qemu/QEMU,cgthree.bin
+usr/share/qemu/QEMU,tcx.bin
+usr/share/qemu/openbios-sparc32
+usr/share/qemu/openbios-sparc64
+

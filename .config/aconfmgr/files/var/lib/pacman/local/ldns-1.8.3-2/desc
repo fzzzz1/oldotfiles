@@ -1,0 +1,46 @@
+%NAME%
+ldns
+
+%VERSION%
+1.8.3-2
+
+%BASE%
+ldns
+
+%DESC%
+Fast DNS library supporting recent RFCs
+
+%URL%
+https://www.nlnetlabs.nl/projects/ldns/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1667309423
+
+%INSTALLDATE%
+1674706011
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+1975721
+
+%REASON%
+1
+
+%LICENSE%
+custom:BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+openssl
+dnssec-anchors
+
+%OPTDEPENDS%
+libpcap: ldns-dpa tool
+

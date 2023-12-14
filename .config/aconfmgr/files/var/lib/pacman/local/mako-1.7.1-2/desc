@@ -1,0 +1,45 @@
+%NAME%
+mako
+
+%VERSION%
+1.7.1-2
+
+%BASE%
+mako
+
+%DESC%
+Lightweight notification daemon for Wayland
+
+%URL%
+https://mako-project.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1657884000
+
+%INSTALLDATE%
+1674705953
+
+%PACKAGER%
+Allan McRae <allan@archlinux.org>
+
+%SIZE%
+127517
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gdk-pixbuf2
+pango
+systemd-libs
+wayland
+
+%OPTDEPENDS%
+jq: support for 'makoctl menu'
+

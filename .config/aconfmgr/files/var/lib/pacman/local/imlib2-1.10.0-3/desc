@@ -1,0 +1,58 @@
+%NAME%
+imlib2
+
+%VERSION%
+1.10.0-3
+
+%BASE%
+imlib2
+
+%DESC%
+Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support
+
+%URL%
+https://sourceforge.net/projects/enlightenment/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1674597363
+
+%INSTALLDATE%
+1674912302
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+1497600
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bzip2
+freetype2
+giflib
+libjpeg-turbo
+libpng
+libtiff
+libxext
+xz
+
+%OPTDEPENDS%
+libheif: HEIF loader (for AVIF)
+libid3tag: ID3 loader
+libjxl: JXL loader
+librsvg: SVG loader
+libspectre: PS loader
+libwebp: WEBP loader
+openjpeg2: J2K loader
+

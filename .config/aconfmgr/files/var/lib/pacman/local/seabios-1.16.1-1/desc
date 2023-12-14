@@ -1,0 +1,43 @@
+%NAME%
+seabios
+
+%VERSION%
+1.16.1-1
+
+%BASE%
+seabios
+
+%DESC%
+Open-source legacy BIOS implementation
+
+%URL%
+https://www.seabios.org/SeaBIOS
+
+%ARCH%
+any
+
+%BUILDDATE%
+1669713627
+
+%INSTALLDATE%
+1675341761
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+1092040
+
+%REASON%
+1
+
+%LICENSE%
+GPL3
+LGPL3
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+seabios-docs: for documentation
+

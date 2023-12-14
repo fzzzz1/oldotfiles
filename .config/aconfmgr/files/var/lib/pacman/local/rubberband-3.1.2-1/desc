@@ -1,0 +1,56 @@
+%NAME%
+rubberband
+
+%VERSION%
+3.1.2-1
+
+%BASE%
+rubberband
+
+%DESC%
+Time-stretching and pitch-shifting audio library and utility
+
+%URL%
+https://www.breakfastquay.com/rubberband/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1670005446
+
+%INSTALLDATE%
+1674706023
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+6172026
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+glibc
+libfftw3.so=3-64
+libsamplerate.so=0-64
+libsndfile.so=1-64
+
+%OPTDEPENDS%
+ladspa-host: for LADSPA plugin
+lv2-host: for LV2 plugin
+vamp-host: for VAMP plugin
+vamp-plugin-sdk: for VAMP plugin
+
+%PROVIDES%
+librubberband.so=2-64
+librubberband-jni.so=librubberband-jni.so-64
+

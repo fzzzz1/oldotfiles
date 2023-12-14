@@ -1,0 +1,47 @@
+%NAME%
+liblangtag
+
+%VERSION%
+0.6.4-1
+
+%BASE%
+liblangtag
+
+%DESC%
+interface library to access/deal with tags for identifying languages
+
+%URL%
+https://bitbucket.org/tagoh/liblangtag/wiki/Home
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1656753890
+
+%INSTALLDATE%
+1674706025
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+3393703
+
+%REASON%
+1
+
+%LICENSE%
+LGPL3
+MPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libxml2
+glib2
+
+%OPTDEPENDS%
+gobject-introspection-runtime: use with liblangtag-gobject
+

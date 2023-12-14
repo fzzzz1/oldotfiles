@@ -1,0 +1,6 @@
+2023/02/04-19:44:17.226 7b7 Reusing MANIFEST /home/fritz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/04-19:44:17.226 7b7 Recovering log #18
+2023/02/04-19:44:17.264 7b7 Reusing old log /home/fritz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2023/02/04-19:44:20.828 7e6 Level-0 table #23: started
+2023/02/04-19:44:20.841 7e6 Level-0 table #23: 1056768 bytes OK
+2023/02/04-19:44:20.846 7e6 Delete type=0 #18

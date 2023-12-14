@@ -1,0 +1,57 @@
+%NAME%
+xdg-desktop-portal-hyprland-git
+
+%VERSION%
+r250.b03b1c2-1
+
+%BASE%
+xdg-desktop-portal-hyprland-git
+
+%DESC%
+xdg-desktop-portal backend for hyprland
+
+%URL%
+https://github.com/hyprwm/xdg-desktop-portal-hyprland
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1675047691
+
+%INSTALLDATE%
+1675047705
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+378900
+
+%LICENSE%
+custom:MIT
+
+%VALIDATION%
+none
+
+%DEPENDS%
+xdg-desktop-portal
+pipewire
+libinih
+qt6-base
+qt6-wayland
+
+%OPTDEPENDS%
+grim: required for the screenshot portal to function
+slurp: support for interactive mode for the screenshot portal; one of the built-in chooser options for the screencast portal
+bemenu: one of the built-in chooser options for the screencast portal
+wofi: one of the built-in chooser options for the screencast portal
+hyprland: the Hyprland compositor
+
+%CONFLICTS%
+xdg-desktop-portal-hyprland
+
+%PROVIDES%
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-impl
+

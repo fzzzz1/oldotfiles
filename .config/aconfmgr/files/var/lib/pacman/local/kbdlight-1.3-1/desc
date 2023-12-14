@@ -1,0 +1,36 @@
+%NAME%
+kbdlight
+
+%VERSION%
+1.3-1
+
+%BASE%
+kbdlight
+
+%DESC%
+A very simple application that changes MacBooks' keyboard backlight level.
+
+%URL%
+https://github.com/WhyNotHugo/kbdlight/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1674706054
+
+%INSTALLDATE%
+1674706065
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+14176
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+none
+

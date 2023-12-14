@@ -1,0 +1,48 @@
+%NAME%
+python-urllib3
+
+%VERSION%
+1.26.12-1
+
+%BASE%
+python-urllib3
+
+%DESC%
+HTTP library with thread-safe connection pooling and file post support
+
+%URL%
+https://github.com/urllib3/urllib3
+
+%ARCH%
+any
+
+%BUILDDATE%
+1661501112
+
+%INSTALLDATE%
+1675458398
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+738853
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+
+%OPTDEPENDS%
+python-pysocks: SOCKS support
+python-brotli: Brotli support
+python-pyopenssl: security support
+python-idna: security support
+

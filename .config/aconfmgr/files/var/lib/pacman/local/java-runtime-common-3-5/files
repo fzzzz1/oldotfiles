@@ -1,0 +1,26 @@
+%FILES%
+etc/
+etc/profile.d/
+etc/profile.d/jre.csh
+etc/profile.d/jre.sh
+usr/
+usr/bin/
+usr/bin/archlinux-java
+usr/bin/java
+usr/bin/keytool
+usr/bin/orbd
+usr/bin/pack200
+usr/bin/rmid
+usr/bin/rmiregistry
+usr/bin/servertool
+usr/bin/tnameserv
+usr/bin/unpack200
+usr/lib/
+usr/lib/jvm/
+usr/lib/jvm/default
+usr/lib/jvm/default-runtime
+
+%BACKUP%
+etc/profile.d/jre.sh	b525c8e142396a54dd0b5870ca33b5ab
+etc/profile.d/jre.csh	3abeb8c221c35c43b291088c1cf37df9
+

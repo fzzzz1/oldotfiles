@@ -1,0 +1,56 @@
+%NAME%
+sdl2
+
+%VERSION%
+2.26.2-1
+
+%BASE%
+sdl2
+
+%DESC%
+A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (Version 2)
+
+%URL%
+https://www.libsdl.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1672822713
+
+%INSTALLDATE%
+1674705698
+
+%PACKAGER%
+Sven-Hendrik Haase <svenstaro@gmail.com>
+
+%SIZE%
+4643470
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+libxext
+libxrender
+libx11
+libgl
+libxcursor
+hidapi
+libusb
+
+%OPTDEPENDS%
+alsa-lib: ALSA audio driver
+libpulse: PulseAudio audio driver
+jack: JACK audio driver
+pipewire: PipeWire audio driver
+libdecor: Wayland client decorations
+
