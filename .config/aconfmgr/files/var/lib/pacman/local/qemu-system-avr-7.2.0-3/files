@@ -1,9 +1,0 @@
-%FILES%
-usr/
-usr/bin/
-usr/bin/qemu-system-avr
-usr/share/
-usr/share/man/
-usr/share/man/man1/
-usr/share/man/man1/qemu-system-avr.1.gz
-

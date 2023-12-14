@@ -1,7 +1,0 @@
-%FILES%
-usr/
-usr/share/
-usr/share/qemu/
-usr/share/qemu/s390-ccw.img
-usr/share/qemu/s390-netboot.img
-

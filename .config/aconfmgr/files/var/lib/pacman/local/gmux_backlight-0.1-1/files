@@ -1,9 +1,0 @@
-%FILES%
-usr/
-usr/bin/
-usr/bin/gmux_backlight
-usr/share/
-usr/share/man/
-usr/share/man/man1/
-usr/share/man/man1/gmux_backlight.1.gz
-

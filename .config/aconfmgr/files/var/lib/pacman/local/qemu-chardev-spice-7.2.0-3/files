@@ -1,6 +1,0 @@
-%FILES%
-usr/
-usr/lib/
-usr/lib/qemu/
-usr/lib/qemu/chardev-spice.so
-

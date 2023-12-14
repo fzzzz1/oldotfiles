@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="image/jxl">
-  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <glob pattern="*.jxl"/>
-  <comment>JPEG XL image</comment>
-  <comment xml:lang="fr">image JPEG XL</comment>
-  <comment xml:lang="nl">JPEG XL afbeelding</comment>
-  <glob pattern="*.jxl"/>
-</mime-type>
